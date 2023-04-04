@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\Fahrenheit\bin\Debug\net6.0\Fahrenheit.exe
+C:\Workspace\academia_dotnet_atos\Fahrenheit\bin\Debug\net6.0\Fahrenheit.deps.json
+C:\Workspace\academia_dotnet_atos\Fahrenheit\bin\Debug\net6.0\Fahrenheit.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\Fahrenheit\bin\Debug\net6.0\Fahrenheit.dll
+C:\Workspace\academia_dotnet_atos\Fahrenheit\bin\Debug\net6.0\Fahrenheit.pdb
+C:\Workspace\academia_dotnet_atos\Fahrenheit\obj\Debug\net6.0\Fahrenheit.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\Fahrenheit\obj\Debug\net6.0\Fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\Fahrenheit\obj\Debug\net6.0\Fahrenheit.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\Fahrenheit\obj\Debug\net6.0\Fahrenheit.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\Fahrenheit\obj\Debug\net6.0\Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\Fahrenheit\obj\Debug\net6.0\Fahrenheit.dll
+C:\Workspace\academia_dotnet_atos\Fahrenheit\obj\Debug\net6.0\refint\Fahrenheit.dll
+C:\Workspace\academia_dotnet_atos\Fahrenheit\obj\Debug\net6.0\Fahrenheit.pdb
+C:\Workspace\academia_dotnet_atos\Fahrenheit\obj\Debug\net6.0\Fahrenheit.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\Fahrenheit\obj\Debug\net6.0\ref\Fahrenheit.dll

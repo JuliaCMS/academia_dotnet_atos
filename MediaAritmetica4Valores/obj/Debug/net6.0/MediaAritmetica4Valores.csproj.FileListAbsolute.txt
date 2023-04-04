@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\MediaAritmetica4Valores\bin\Debug\net6.0\MediaAritmetica4Valores.exe
+C:\Workspace\academia_dotnet_atos\MediaAritmetica4Valores\bin\Debug\net6.0\MediaAritmetica4Valores.deps.json
+C:\Workspace\academia_dotnet_atos\MediaAritmetica4Valores\bin\Debug\net6.0\MediaAritmetica4Valores.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\MediaAritmetica4Valores\bin\Debug\net6.0\MediaAritmetica4Valores.dll
+C:\Workspace\academia_dotnet_atos\MediaAritmetica4Valores\bin\Debug\net6.0\MediaAritmetica4Valores.pdb
+C:\Workspace\academia_dotnet_atos\MediaAritmetica4Valores\obj\Debug\net6.0\MediaAritmetica4Valores.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\MediaAritmetica4Valores\obj\Debug\net6.0\MediaAritmetica4Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\MediaAritmetica4Valores\obj\Debug\net6.0\MediaAritmetica4Valores.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\MediaAritmetica4Valores\obj\Debug\net6.0\MediaAritmetica4Valores.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\MediaAritmetica4Valores\obj\Debug\net6.0\MediaAritmetica4Valores.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\MediaAritmetica4Valores\obj\Debug\net6.0\MediaAritmetica4Valores.dll
+C:\Workspace\academia_dotnet_atos\MediaAritmetica4Valores\obj\Debug\net6.0\refint\MediaAritmetica4Valores.dll
+C:\Workspace\academia_dotnet_atos\MediaAritmetica4Valores\obj\Debug\net6.0\MediaAritmetica4Valores.pdb
+C:\Workspace\academia_dotnet_atos\MediaAritmetica4Valores\obj\Debug\net6.0\MediaAritmetica4Valores.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\MediaAritmetica4Valores\obj\Debug\net6.0\ref\MediaAritmetica4Valores.dll

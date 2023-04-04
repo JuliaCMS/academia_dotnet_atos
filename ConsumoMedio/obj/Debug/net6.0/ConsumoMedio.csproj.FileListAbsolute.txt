@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\ConsumoMedio\bin\Debug\net6.0\ConsumoMedio.exe
+C:\Workspace\academia_dotnet_atos\ConsumoMedio\bin\Debug\net6.0\ConsumoMedio.deps.json
+C:\Workspace\academia_dotnet_atos\ConsumoMedio\bin\Debug\net6.0\ConsumoMedio.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\ConsumoMedio\bin\Debug\net6.0\ConsumoMedio.dll
+C:\Workspace\academia_dotnet_atos\ConsumoMedio\bin\Debug\net6.0\ConsumoMedio.pdb
+C:\Workspace\academia_dotnet_atos\ConsumoMedio\obj\Debug\net6.0\ConsumoMedio.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\ConsumoMedio\obj\Debug\net6.0\ConsumoMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\ConsumoMedio\obj\Debug\net6.0\ConsumoMedio.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\ConsumoMedio\obj\Debug\net6.0\ConsumoMedio.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\ConsumoMedio\obj\Debug\net6.0\ConsumoMedio.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\ConsumoMedio\obj\Debug\net6.0\ConsumoMedio.dll
+C:\Workspace\academia_dotnet_atos\ConsumoMedio\obj\Debug\net6.0\refint\ConsumoMedio.dll
+C:\Workspace\academia_dotnet_atos\ConsumoMedio\obj\Debug\net6.0\ConsumoMedio.pdb
+C:\Workspace\academia_dotnet_atos\ConsumoMedio\obj\Debug\net6.0\ConsumoMedio.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\ConsumoMedio\obj\Debug\net6.0\ref\ConsumoMedio.dll

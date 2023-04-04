@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\SalarioVendedor\bin\Debug\net6.0\SalarioVendedor.exe
+C:\Workspace\academia_dotnet_atos\SalarioVendedor\bin\Debug\net6.0\SalarioVendedor.deps.json
+C:\Workspace\academia_dotnet_atos\SalarioVendedor\bin\Debug\net6.0\SalarioVendedor.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\SalarioVendedor\bin\Debug\net6.0\SalarioVendedor.dll
+C:\Workspace\academia_dotnet_atos\SalarioVendedor\bin\Debug\net6.0\SalarioVendedor.pdb
+C:\Workspace\academia_dotnet_atos\SalarioVendedor\obj\Debug\net6.0\SalarioVendedor.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\SalarioVendedor\obj\Debug\net6.0\SalarioVendedor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\SalarioVendedor\obj\Debug\net6.0\SalarioVendedor.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\SalarioVendedor\obj\Debug\net6.0\SalarioVendedor.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\SalarioVendedor\obj\Debug\net6.0\SalarioVendedor.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\SalarioVendedor\obj\Debug\net6.0\SalarioVendedor.dll
+C:\Workspace\academia_dotnet_atos\SalarioVendedor\obj\Debug\net6.0\refint\SalarioVendedor.dll
+C:\Workspace\academia_dotnet_atos\SalarioVendedor\obj\Debug\net6.0\SalarioVendedor.pdb
+C:\Workspace\academia_dotnet_atos\SalarioVendedor\obj\Debug\net6.0\SalarioVendedor.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\SalarioVendedor\obj\Debug\net6.0\ref\SalarioVendedor.dll

@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\TrocaValores\bin\Debug\net6.0\TrocaValores.exe
+C:\Workspace\academia_dotnet_atos\TrocaValores\bin\Debug\net6.0\TrocaValores.deps.json
+C:\Workspace\academia_dotnet_atos\TrocaValores\bin\Debug\net6.0\TrocaValores.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\TrocaValores\bin\Debug\net6.0\TrocaValores.dll
+C:\Workspace\academia_dotnet_atos\TrocaValores\bin\Debug\net6.0\TrocaValores.pdb
+C:\Workspace\academia_dotnet_atos\TrocaValores\obj\Debug\net6.0\TrocaValores.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\TrocaValores\obj\Debug\net6.0\TrocaValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\TrocaValores\obj\Debug\net6.0\TrocaValores.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\TrocaValores\obj\Debug\net6.0\TrocaValores.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\TrocaValores\obj\Debug\net6.0\TrocaValores.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\TrocaValores\obj\Debug\net6.0\TrocaValores.dll
+C:\Workspace\academia_dotnet_atos\TrocaValores\obj\Debug\net6.0\refint\TrocaValores.dll
+C:\Workspace\academia_dotnet_atos\TrocaValores\obj\Debug\net6.0\TrocaValores.pdb
+C:\Workspace\academia_dotnet_atos\TrocaValores\obj\Debug\net6.0\TrocaValores.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\TrocaValores\obj\Debug\net6.0\ref\TrocaValores.dll
