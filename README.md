@@ -25,4 +25,8 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 ## LINKS ÚTEIS
 
 - [String.Contains Método](https://learn.microsoft.com/pt-br/dotnet/api/system.string.contains?view=net-7.0)
+<<<<<<< HEAD
 - [DateTime](https://learn.microsoft.com/pt-br/dotnet/api/system.datetime?view=net-7.0)
+=======
+- [DateTime](https://learn.microsoft.com/pt-br/dotnet/api/system.datetime?view=net-7.0)
+>>>>>>> 22e7b956010c8afbc6e6707a590e094c7cbed789
