@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\4-ValorHoraAula\bin\Debug\net6.0\4-ValorHoraAula.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\4-ValorHoraAula\bin\Debug\net6.0\4-ValorHoraAula.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\4-ValorHoraAula\bin\Debug\net6.0\4-ValorHoraAula.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\4-ValorHoraAula\bin\Debug\net6.0\4-ValorHoraAula.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\4-ValorHoraAula\bin\Debug\net6.0\4-ValorHoraAula.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\4-ValorHoraAula\obj\Debug\net6.0\4-ValorHoraAula.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\4-ValorHoraAula\obj\Debug\net6.0\4-ValorHoraAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\4-ValorHoraAula\obj\Debug\net6.0\4-ValorHoraAula.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\4-ValorHoraAula\obj\Debug\net6.0\4-ValorHoraAula.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\4-ValorHoraAula\obj\Debug\net6.0\4-ValorHoraAula.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\4-ValorHoraAula\obj\Debug\net6.0\4-ValorHoraAula.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\4-ValorHoraAula\obj\Debug\net6.0\refint\4-ValorHoraAula.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\4-ValorHoraAula\obj\Debug\net6.0\4-ValorHoraAula.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\4-ValorHoraAula\obj\Debug\net6.0\4-ValorHoraAula.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\4-ValorHoraAula\obj\Debug\net6.0\ref\4-ValorHoraAula.dll

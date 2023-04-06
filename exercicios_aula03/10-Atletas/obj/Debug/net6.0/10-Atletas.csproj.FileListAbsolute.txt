@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\10-Atletas\bin\Debug\net6.0\10-Atletas.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\10-Atletas\bin\Debug\net6.0\10-Atletas.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\10-Atletas\bin\Debug\net6.0\10-Atletas.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\10-Atletas\bin\Debug\net6.0\10-Atletas.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\10-Atletas\bin\Debug\net6.0\10-Atletas.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\10-Atletas\obj\Debug\net6.0\10-Atletas.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\10-Atletas\obj\Debug\net6.0\10-Atletas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\10-Atletas\obj\Debug\net6.0\10-Atletas.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\10-Atletas\obj\Debug\net6.0\10-Atletas.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\10-Atletas\obj\Debug\net6.0\10-Atletas.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\10-Atletas\obj\Debug\net6.0\10-Atletas.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\10-Atletas\obj\Debug\net6.0\refint\10-Atletas.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\10-Atletas\obj\Debug\net6.0\10-Atletas.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\10-Atletas\obj\Debug\net6.0\10-Atletas.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\10-Atletas\obj\Debug\net6.0\ref\10-Atletas.dll

@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\9-MediaGlicemia\bin\Debug\net6.0\9-MediaGlicemia.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\9-MediaGlicemia\bin\Debug\net6.0\9-MediaGlicemia.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\9-MediaGlicemia\bin\Debug\net6.0\9-MediaGlicemia.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\9-MediaGlicemia\bin\Debug\net6.0\9-MediaGlicemia.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\9-MediaGlicemia\bin\Debug\net6.0\9-MediaGlicemia.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\9-MediaGlicemia\obj\Debug\net6.0\9-MediaGlicemia.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\9-MediaGlicemia\obj\Debug\net6.0\9-MediaGlicemia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\9-MediaGlicemia\obj\Debug\net6.0\9-MediaGlicemia.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\9-MediaGlicemia\obj\Debug\net6.0\9-MediaGlicemia.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\9-MediaGlicemia\obj\Debug\net6.0\9-MediaGlicemia.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\9-MediaGlicemia\obj\Debug\net6.0\9-MediaGlicemia.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\9-MediaGlicemia\obj\Debug\net6.0\refint\9-MediaGlicemia.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\9-MediaGlicemia\obj\Debug\net6.0\9-MediaGlicemia.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\9-MediaGlicemia\obj\Debug\net6.0\9-MediaGlicemia.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\9-MediaGlicemia\obj\Debug\net6.0\ref\9-MediaGlicemia.dll

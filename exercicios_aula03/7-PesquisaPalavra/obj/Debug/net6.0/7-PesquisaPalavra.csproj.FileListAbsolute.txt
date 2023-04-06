@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\7-PesquisaPalavra\bin\Debug\net6.0\7-PesquisaPalavra.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\7-PesquisaPalavra\bin\Debug\net6.0\7-PesquisaPalavra.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\7-PesquisaPalavra\bin\Debug\net6.0\7-PesquisaPalavra.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\7-PesquisaPalavra\bin\Debug\net6.0\7-PesquisaPalavra.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\7-PesquisaPalavra\bin\Debug\net6.0\7-PesquisaPalavra.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\7-PesquisaPalavra\obj\Debug\net6.0\7-PesquisaPalavra.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\7-PesquisaPalavra\obj\Debug\net6.0\7-PesquisaPalavra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\7-PesquisaPalavra\obj\Debug\net6.0\7-PesquisaPalavra.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\7-PesquisaPalavra\obj\Debug\net6.0\7-PesquisaPalavra.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\7-PesquisaPalavra\obj\Debug\net6.0\7-PesquisaPalavra.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\7-PesquisaPalavra\obj\Debug\net6.0\7-PesquisaPalavra.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\7-PesquisaPalavra\obj\Debug\net6.0\refint\7-PesquisaPalavra.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\7-PesquisaPalavra\obj\Debug\net6.0\7-PesquisaPalavra.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\7-PesquisaPalavra\obj\Debug\net6.0\7-PesquisaPalavra.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\7-PesquisaPalavra\obj\Debug\net6.0\ref\7-PesquisaPalavra.dll

@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\6-IMC\bin\Debug\net6.0\6-IMC.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\6-IMC\bin\Debug\net6.0\6-IMC.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\6-IMC\bin\Debug\net6.0\6-IMC.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\6-IMC\bin\Debug\net6.0\6-IMC.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\6-IMC\bin\Debug\net6.0\6-IMC.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\6-IMC\obj\Debug\net6.0\6-IMC.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\6-IMC\obj\Debug\net6.0\6-IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\6-IMC\obj\Debug\net6.0\6-IMC.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\6-IMC\obj\Debug\net6.0\6-IMC.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\6-IMC\obj\Debug\net6.0\6-IMC.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\6-IMC\obj\Debug\net6.0\6-IMC.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\6-IMC\obj\Debug\net6.0\refint\6-IMC.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\6-IMC\obj\Debug\net6.0\6-IMC.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\6-IMC\obj\Debug\net6.0\6-IMC.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\6-IMC\obj\Debug\net6.0\ref\6-IMC.dll

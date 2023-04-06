@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\2-VerificaParImpar\bin\Debug\net6.0\2-VerificaParImpar.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\2-VerificaParImpar\bin\Debug\net6.0\2-VerificaParImpar.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\2-VerificaParImpar\bin\Debug\net6.0\2-VerificaParImpar.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\2-VerificaParImpar\bin\Debug\net6.0\2-VerificaParImpar.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\2-VerificaParImpar\bin\Debug\net6.0\2-VerificaParImpar.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\2-VerificaParImpar\obj\Debug\net6.0\2-VerificaParImpar.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\2-VerificaParImpar\obj\Debug\net6.0\2-VerificaParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\2-VerificaParImpar\obj\Debug\net6.0\2-VerificaParImpar.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\2-VerificaParImpar\obj\Debug\net6.0\2-VerificaParImpar.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\2-VerificaParImpar\obj\Debug\net6.0\2-VerificaParImpar.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\2-VerificaParImpar\obj\Debug\net6.0\2-VerificaParImpar.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\2-VerificaParImpar\obj\Debug\net6.0\refint\2-VerificaParImpar.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\2-VerificaParImpar\obj\Debug\net6.0\2-VerificaParImpar.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\2-VerificaParImpar\obj\Debug\net6.0\2-VerificaParImpar.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\2-VerificaParImpar\obj\Debug\net6.0\ref\2-VerificaParImpar.dll

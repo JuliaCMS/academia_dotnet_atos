@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\5-MediaAluno\bin\Debug\net6.0\5-MediaAluno.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\5-MediaAluno\bin\Debug\net6.0\5-MediaAluno.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\5-MediaAluno\bin\Debug\net6.0\5-MediaAluno.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\5-MediaAluno\bin\Debug\net6.0\5-MediaAluno.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\5-MediaAluno\bin\Debug\net6.0\5-MediaAluno.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\5-MediaAluno\obj\Debug\net6.0\5-MediaAluno.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\5-MediaAluno\obj\Debug\net6.0\5-MediaAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\5-MediaAluno\obj\Debug\net6.0\5-MediaAluno.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\5-MediaAluno\obj\Debug\net6.0\5-MediaAluno.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\5-MediaAluno\obj\Debug\net6.0\5-MediaAluno.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\5-MediaAluno\obj\Debug\net6.0\5-MediaAluno.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\5-MediaAluno\obj\Debug\net6.0\refint\5-MediaAluno.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\5-MediaAluno\obj\Debug\net6.0\5-MediaAluno.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\5-MediaAluno\obj\Debug\net6.0\5-MediaAluno.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula03\5-MediaAluno\obj\Debug\net6.0\ref\5-MediaAluno.dll
