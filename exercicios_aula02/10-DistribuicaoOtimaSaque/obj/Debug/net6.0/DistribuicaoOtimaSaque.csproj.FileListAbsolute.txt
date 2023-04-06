@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula02\DistribuicaoOtimaSaque\bin\Debug\net6.0\DistribuicaoOtimaSaque.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula02\DistribuicaoOtimaSaque\bin\Debug\net6.0\DistribuicaoOtimaSaque.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula02\DistribuicaoOtimaSaque\bin\Debug\net6.0\DistribuicaoOtimaSaque.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula02\DistribuicaoOtimaSaque\bin\Debug\net6.0\DistribuicaoOtimaSaque.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula02\DistribuicaoOtimaSaque\bin\Debug\net6.0\DistribuicaoOtimaSaque.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula02\DistribuicaoOtimaSaque\obj\Debug\net6.0\DistribuicaoOtimaSaque.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula02\DistribuicaoOtimaSaque\obj\Debug\net6.0\DistribuicaoOtimaSaque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula02\DistribuicaoOtimaSaque\obj\Debug\net6.0\DistribuicaoOtimaSaque.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula02\DistribuicaoOtimaSaque\obj\Debug\net6.0\DistribuicaoOtimaSaque.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula02\DistribuicaoOtimaSaque\obj\Debug\net6.0\DistribuicaoOtimaSaque.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula02\DistribuicaoOtimaSaque\obj\Debug\net6.0\DistribuicaoOtimaSaque.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula02\DistribuicaoOtimaSaque\obj\Debug\net6.0\refint\DistribuicaoOtimaSaque.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula02\DistribuicaoOtimaSaque\obj\Debug\net6.0\DistribuicaoOtimaSaque.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula02\DistribuicaoOtimaSaque\obj\Debug\net6.0\DistribuicaoOtimaSaque.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula02\DistribuicaoOtimaSaque\obj\Debug\net6.0\ref\DistribuicaoOtimaSaque.dll
