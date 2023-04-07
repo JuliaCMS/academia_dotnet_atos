@@ -22,11 +22,14 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Operadores Lógicos (AND, OR e NOT)
 - Resolução de exercícios condicionais básicos
 
+### Aula 04 (06/abril)
+- Estrutura de condição Switch-Case
+- Operador ternário
+- Resolução de exercícios relacionados às últimas aulas
+
+
 ## LINKS ÚTEIS
 
 - [String.Contains Método](https://learn.microsoft.com/pt-br/dotnet/api/system.string.contains?view=net-7.0)
-<<<<<<< HEAD
 - [DateTime](https://learn.microsoft.com/pt-br/dotnet/api/system.datetime?view=net-7.0)
-=======
-- [DateTime](https://learn.microsoft.com/pt-br/dotnet/api/system.datetime?view=net-7.0)
->>>>>>> 22e7b956010c8afbc6e6707a590e094c7cbed789
+- [String.Split Método](https://learn.microsoft.com/pt-br/dotnet/api/system.string.split?view=net-7.0)
