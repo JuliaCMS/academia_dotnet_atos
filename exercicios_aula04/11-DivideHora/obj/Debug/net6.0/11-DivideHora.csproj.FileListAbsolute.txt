@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\11-DivideHora\bin\Debug\net6.0\11-DivideHora.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\11-DivideHora\bin\Debug\net6.0\11-DivideHora.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\11-DivideHora\bin\Debug\net6.0\11-DivideHora.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\11-DivideHora\bin\Debug\net6.0\11-DivideHora.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\11-DivideHora\bin\Debug\net6.0\11-DivideHora.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\11-DivideHora\obj\Debug\net6.0\11-DivideHora.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\11-DivideHora\obj\Debug\net6.0\11-DivideHora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\11-DivideHora\obj\Debug\net6.0\11-DivideHora.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\11-DivideHora\obj\Debug\net6.0\11-DivideHora.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\11-DivideHora\obj\Debug\net6.0\11-DivideHora.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\11-DivideHora\obj\Debug\net6.0\11-DivideHora.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\11-DivideHora\obj\Debug\net6.0\refint\11-DivideHora.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\11-DivideHora\obj\Debug\net6.0\11-DivideHora.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\11-DivideHora\obj\Debug\net6.0\11-DivideHora.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\11-DivideHora\obj\Debug\net6.0\ref\11-DivideHora.dll

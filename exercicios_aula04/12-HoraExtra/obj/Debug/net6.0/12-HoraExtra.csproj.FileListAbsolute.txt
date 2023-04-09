@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\12-HoraExtra\bin\Debug\net6.0\12-HoraExtra.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\12-HoraExtra\bin\Debug\net6.0\12-HoraExtra.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\12-HoraExtra\bin\Debug\net6.0\12-HoraExtra.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\12-HoraExtra\bin\Debug\net6.0\12-HoraExtra.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\12-HoraExtra\bin\Debug\net6.0\12-HoraExtra.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\12-HoraExtra\obj\Debug\net6.0\12-HoraExtra.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\12-HoraExtra\obj\Debug\net6.0\12-HoraExtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\12-HoraExtra\obj\Debug\net6.0\12-HoraExtra.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\12-HoraExtra\obj\Debug\net6.0\12-HoraExtra.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\12-HoraExtra\obj\Debug\net6.0\12-HoraExtra.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\12-HoraExtra\obj\Debug\net6.0\12-HoraExtra.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\12-HoraExtra\obj\Debug\net6.0\refint\12-HoraExtra.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\12-HoraExtra\obj\Debug\net6.0\12-HoraExtra.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\12-HoraExtra\obj\Debug\net6.0\12-HoraExtra.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\12-HoraExtra\obj\Debug\net6.0\ref\12-HoraExtra.dll

@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\14-TempoDownload\bin\Debug\net6.0\14-TempoDownload.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\14-TempoDownload\bin\Debug\net6.0\14-TempoDownload.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\14-TempoDownload\bin\Debug\net6.0\14-TempoDownload.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\14-TempoDownload\bin\Debug\net6.0\14-TempoDownload.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\14-TempoDownload\bin\Debug\net6.0\14-TempoDownload.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\14-TempoDownload\obj\Debug\net6.0\14-TempoDownload.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\14-TempoDownload\obj\Debug\net6.0\14-TempoDownload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\14-TempoDownload\obj\Debug\net6.0\14-TempoDownload.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\14-TempoDownload\obj\Debug\net6.0\14-TempoDownload.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\14-TempoDownload\obj\Debug\net6.0\14-TempoDownload.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\14-TempoDownload\obj\Debug\net6.0\14-TempoDownload.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\14-TempoDownload\obj\Debug\net6.0\refint\14-TempoDownload.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\14-TempoDownload\obj\Debug\net6.0\14-TempoDownload.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\14-TempoDownload\obj\Debug\net6.0\14-TempoDownload.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\14-TempoDownload\obj\Debug\net6.0\ref\14-TempoDownload.dll

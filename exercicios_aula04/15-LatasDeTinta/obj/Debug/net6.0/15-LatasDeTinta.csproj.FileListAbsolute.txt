@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\15-LatasDeTinta\bin\Debug\net6.0\15-LatasDeTinta.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\15-LatasDeTinta\bin\Debug\net6.0\15-LatasDeTinta.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\15-LatasDeTinta\bin\Debug\net6.0\15-LatasDeTinta.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\15-LatasDeTinta\bin\Debug\net6.0\15-LatasDeTinta.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\15-LatasDeTinta\bin\Debug\net6.0\15-LatasDeTinta.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\15-LatasDeTinta\obj\Debug\net6.0\15-LatasDeTinta.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\15-LatasDeTinta\obj\Debug\net6.0\15-LatasDeTinta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\15-LatasDeTinta\obj\Debug\net6.0\15-LatasDeTinta.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\15-LatasDeTinta\obj\Debug\net6.0\15-LatasDeTinta.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\15-LatasDeTinta\obj\Debug\net6.0\15-LatasDeTinta.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\15-LatasDeTinta\obj\Debug\net6.0\15-LatasDeTinta.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\15-LatasDeTinta\obj\Debug\net6.0\refint\15-LatasDeTinta.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\15-LatasDeTinta\obj\Debug\net6.0\15-LatasDeTinta.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\15-LatasDeTinta\obj\Debug\net6.0\15-LatasDeTinta.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\15-LatasDeTinta\obj\Debug\net6.0\ref\15-LatasDeTinta.dll

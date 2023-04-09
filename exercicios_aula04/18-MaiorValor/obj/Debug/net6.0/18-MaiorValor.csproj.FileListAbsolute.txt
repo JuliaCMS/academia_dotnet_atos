@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\18-MaiorValor\bin\Debug\net6.0\18-MaiorValor.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\18-MaiorValor\bin\Debug\net6.0\18-MaiorValor.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\18-MaiorValor\bin\Debug\net6.0\18-MaiorValor.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\18-MaiorValor\bin\Debug\net6.0\18-MaiorValor.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\18-MaiorValor\bin\Debug\net6.0\18-MaiorValor.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\18-MaiorValor\obj\Debug\net6.0\18-MaiorValor.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\18-MaiorValor\obj\Debug\net6.0\18-MaiorValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\18-MaiorValor\obj\Debug\net6.0\18-MaiorValor.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\18-MaiorValor\obj\Debug\net6.0\18-MaiorValor.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\18-MaiorValor\obj\Debug\net6.0\18-MaiorValor.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\18-MaiorValor\obj\Debug\net6.0\18-MaiorValor.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\18-MaiorValor\obj\Debug\net6.0\refint\18-MaiorValor.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\18-MaiorValor\obj\Debug\net6.0\18-MaiorValor.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\18-MaiorValor\obj\Debug\net6.0\18-MaiorValor.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\18-MaiorValor\obj\Debug\net6.0\ref\18-MaiorValor.dll

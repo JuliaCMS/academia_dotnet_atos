@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\19-OrdemCrescente\bin\Debug\net6.0\19-OrdemCrescente.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\19-OrdemCrescente\bin\Debug\net6.0\19-OrdemCrescente.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\19-OrdemCrescente\bin\Debug\net6.0\19-OrdemCrescente.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\19-OrdemCrescente\bin\Debug\net6.0\19-OrdemCrescente.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\19-OrdemCrescente\bin\Debug\net6.0\19-OrdemCrescente.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\19-OrdemCrescente\obj\Debug\net6.0\19-OrdemCrescente.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\19-OrdemCrescente\obj\Debug\net6.0\19-OrdemCrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\19-OrdemCrescente\obj\Debug\net6.0\19-OrdemCrescente.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\19-OrdemCrescente\obj\Debug\net6.0\19-OrdemCrescente.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\19-OrdemCrescente\obj\Debug\net6.0\19-OrdemCrescente.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\19-OrdemCrescente\obj\Debug\net6.0\19-OrdemCrescente.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\19-OrdemCrescente\obj\Debug\net6.0\refint\19-OrdemCrescente.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\19-OrdemCrescente\obj\Debug\net6.0\19-OrdemCrescente.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\19-OrdemCrescente\obj\Debug\net6.0\19-OrdemCrescente.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\19-OrdemCrescente\obj\Debug\net6.0\ref\19-OrdemCrescente.dll

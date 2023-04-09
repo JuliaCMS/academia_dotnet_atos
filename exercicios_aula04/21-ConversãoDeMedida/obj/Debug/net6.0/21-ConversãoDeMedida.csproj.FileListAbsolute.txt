@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\21-ConversãoDeMedida\bin\Debug\net6.0\21-ConversãoDeMedida.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\21-ConversãoDeMedida\bin\Debug\net6.0\21-ConversãoDeMedida.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\21-ConversãoDeMedida\bin\Debug\net6.0\21-ConversãoDeMedida.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\21-ConversãoDeMedida\bin\Debug\net6.0\21-ConversãoDeMedida.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\21-ConversãoDeMedida\bin\Debug\net6.0\21-ConversãoDeMedida.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\21-ConversãoDeMedida\obj\Debug\net6.0\21-ConversãoDeMedida.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\21-ConversãoDeMedida\obj\Debug\net6.0\21-ConversãoDeMedida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\21-ConversãoDeMedida\obj\Debug\net6.0\21-ConversãoDeMedida.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\21-ConversãoDeMedida\obj\Debug\net6.0\21-ConversãoDeMedida.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\21-ConversãoDeMedida\obj\Debug\net6.0\21-ConversãoDeMedida.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\21-ConversãoDeMedida\obj\Debug\net6.0\21-ConversãoDeMedida.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\21-ConversãoDeMedida\obj\Debug\net6.0\refint\21-ConversãoDeMedida.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\21-ConversãoDeMedida\obj\Debug\net6.0\21-ConversãoDeMedida.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\21-ConversãoDeMedida\obj\Debug\net6.0\21-ConversãoDeMedida.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\21-ConversãoDeMedida\obj\Debug\net6.0\ref\21-ConversãoDeMedida.dll

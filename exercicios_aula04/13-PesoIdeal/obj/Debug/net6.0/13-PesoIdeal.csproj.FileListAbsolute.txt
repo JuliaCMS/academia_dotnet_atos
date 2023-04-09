@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\13-PesoIdeal\obj\Debug\net6.0\13-PesoIdeal.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\13-PesoIdeal\obj\Debug\net6.0\13-PesoIdeal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\13-PesoIdeal\obj\Debug\net6.0\13-PesoIdeal.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\13-PesoIdeal\obj\Debug\net6.0\13-PesoIdeal.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\13-PesoIdeal\obj\Debug\net6.0\13-PesoIdeal.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\13-PesoIdeal\bin\Debug\net6.0\13-PesoIdeal.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\13-PesoIdeal\bin\Debug\net6.0\13-PesoIdeal.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\13-PesoIdeal\bin\Debug\net6.0\13-PesoIdeal.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\13-PesoIdeal\bin\Debug\net6.0\13-PesoIdeal.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\13-PesoIdeal\bin\Debug\net6.0\13-PesoIdeal.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\13-PesoIdeal\obj\Debug\net6.0\13-PesoIdeal.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\13-PesoIdeal\obj\Debug\net6.0\refint\13-PesoIdeal.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\13-PesoIdeal\obj\Debug\net6.0\13-PesoIdeal.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\13-PesoIdeal\obj\Debug\net6.0\13-PesoIdeal.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula04\13-PesoIdeal\obj\Debug\net6.0\ref\13-PesoIdeal.dll
