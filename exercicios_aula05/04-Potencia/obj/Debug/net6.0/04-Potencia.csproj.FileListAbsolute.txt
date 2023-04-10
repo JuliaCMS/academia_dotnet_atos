@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\04-Potencia\bin\Debug\net6.0\04-Potencia.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\04-Potencia\bin\Debug\net6.0\04-Potencia.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\04-Potencia\bin\Debug\net6.0\04-Potencia.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\04-Potencia\bin\Debug\net6.0\04-Potencia.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\04-Potencia\bin\Debug\net6.0\04-Potencia.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\04-Potencia\obj\Debug\net6.0\04-Potencia.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\04-Potencia\obj\Debug\net6.0\04-Potencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\04-Potencia\obj\Debug\net6.0\04-Potencia.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\04-Potencia\obj\Debug\net6.0\04-Potencia.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\04-Potencia\obj\Debug\net6.0\04-Potencia.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\04-Potencia\obj\Debug\net6.0\04-Potencia.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\04-Potencia\obj\Debug\net6.0\refint\04-Potencia.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\04-Potencia\obj\Debug\net6.0\04-Potencia.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\04-Potencia\obj\Debug\net6.0\04-Potencia.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\04-Potencia\obj\Debug\net6.0\ref\04-Potencia.dll

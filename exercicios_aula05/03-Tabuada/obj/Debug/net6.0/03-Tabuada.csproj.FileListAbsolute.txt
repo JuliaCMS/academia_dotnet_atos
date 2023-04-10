@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\03-Tabuada\bin\Debug\net6.0\03-Tabuada.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\03-Tabuada\bin\Debug\net6.0\03-Tabuada.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\03-Tabuada\bin\Debug\net6.0\03-Tabuada.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\03-Tabuada\bin\Debug\net6.0\03-Tabuada.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\03-Tabuada\bin\Debug\net6.0\03-Tabuada.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\03-Tabuada\obj\Debug\net6.0\03-Tabuada.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\03-Tabuada\obj\Debug\net6.0\03-Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\03-Tabuada\obj\Debug\net6.0\03-Tabuada.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\03-Tabuada\obj\Debug\net6.0\03-Tabuada.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\03-Tabuada\obj\Debug\net6.0\03-Tabuada.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\03-Tabuada\obj\Debug\net6.0\03-Tabuada.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\03-Tabuada\obj\Debug\net6.0\refint\03-Tabuada.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\03-Tabuada\obj\Debug\net6.0\03-Tabuada.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\03-Tabuada\obj\Debug\net6.0\03-Tabuada.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\03-Tabuada\obj\Debug\net6.0\ref\03-Tabuada.dll

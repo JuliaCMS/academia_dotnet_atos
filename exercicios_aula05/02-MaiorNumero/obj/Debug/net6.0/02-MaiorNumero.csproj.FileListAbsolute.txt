@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\02-MaiorNumero\bin\Debug\net6.0\02-MaiorNumero.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\02-MaiorNumero\bin\Debug\net6.0\02-MaiorNumero.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\02-MaiorNumero\bin\Debug\net6.0\02-MaiorNumero.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\02-MaiorNumero\bin\Debug\net6.0\02-MaiorNumero.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\02-MaiorNumero\bin\Debug\net6.0\02-MaiorNumero.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\02-MaiorNumero\obj\Debug\net6.0\02-MaiorNumero.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\02-MaiorNumero\obj\Debug\net6.0\02-MaiorNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\02-MaiorNumero\obj\Debug\net6.0\02-MaiorNumero.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\02-MaiorNumero\obj\Debug\net6.0\02-MaiorNumero.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\02-MaiorNumero\obj\Debug\net6.0\02-MaiorNumero.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\02-MaiorNumero\obj\Debug\net6.0\02-MaiorNumero.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\02-MaiorNumero\obj\Debug\net6.0\refint\02-MaiorNumero.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\02-MaiorNumero\obj\Debug\net6.0\02-MaiorNumero.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\02-MaiorNumero\obj\Debug\net6.0\02-MaiorNumero.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\02-MaiorNumero\obj\Debug\net6.0\ref\02-MaiorNumero.dll
