@@ -27,6 +27,10 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Operador ternário
 - Resolução de exercícios relacionados às últimas aulas
 
+### Aula 05 (10/abril)
+- Estrutura de repetição FOR
+- Resolução de exercícios condicionais
+
 
 ## LINKS ÚTEIS
 
