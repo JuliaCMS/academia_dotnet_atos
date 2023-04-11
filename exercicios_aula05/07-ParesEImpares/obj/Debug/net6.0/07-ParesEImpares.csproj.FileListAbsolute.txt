@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\07-ParesEImpares\bin\Debug\net6.0\07-ParesEImpares.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\07-ParesEImpares\bin\Debug\net6.0\07-ParesEImpares.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\07-ParesEImpares\bin\Debug\net6.0\07-ParesEImpares.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\07-ParesEImpares\bin\Debug\net6.0\07-ParesEImpares.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\07-ParesEImpares\bin\Debug\net6.0\07-ParesEImpares.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\07-ParesEImpares\obj\Debug\net6.0\07-ParesEImpares.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\07-ParesEImpares\obj\Debug\net6.0\07-ParesEImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\07-ParesEImpares\obj\Debug\net6.0\07-ParesEImpares.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\07-ParesEImpares\obj\Debug\net6.0\07-ParesEImpares.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\07-ParesEImpares\obj\Debug\net6.0\07-ParesEImpares.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\07-ParesEImpares\obj\Debug\net6.0\07-ParesEImpares.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\07-ParesEImpares\obj\Debug\net6.0\refint\07-ParesEImpares.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\07-ParesEImpares\obj\Debug\net6.0\07-ParesEImpares.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\07-ParesEImpares\obj\Debug\net6.0\07-ParesEImpares.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\07-ParesEImpares\obj\Debug\net6.0\ref\07-ParesEImpares.dll

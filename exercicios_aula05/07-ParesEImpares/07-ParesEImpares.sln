@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07-ParesEImpares", "07-ParesEImpares.csproj", "{3D61FA12-11DB-42A7-8AE4-0582D77595E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D61FA12-11DB-42A7-8AE4-0582D77595E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D61FA12-11DB-42A7-8AE4-0582D77595E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D61FA12-11DB-42A7-8AE4-0582D77595E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D61FA12-11DB-42A7-8AE4-0582D77595E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38B652F0-50B7-45F9-BD1C-35286EF1DA47}
+	EndGlobalSection
+EndGlobal

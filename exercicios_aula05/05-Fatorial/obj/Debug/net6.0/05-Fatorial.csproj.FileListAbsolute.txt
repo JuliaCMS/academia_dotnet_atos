@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\05-Fatorial\bin\Debug\net6.0\05-Fatorial.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\05-Fatorial\bin\Debug\net6.0\05-Fatorial.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\05-Fatorial\bin\Debug\net6.0\05-Fatorial.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\05-Fatorial\bin\Debug\net6.0\05-Fatorial.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\05-Fatorial\bin\Debug\net6.0\05-Fatorial.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\05-Fatorial\obj\Debug\net6.0\05-Fatorial.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\05-Fatorial\obj\Debug\net6.0\05-Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\05-Fatorial\obj\Debug\net6.0\05-Fatorial.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\05-Fatorial\obj\Debug\net6.0\05-Fatorial.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\05-Fatorial\obj\Debug\net6.0\05-Fatorial.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\05-Fatorial\obj\Debug\net6.0\05-Fatorial.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\05-Fatorial\obj\Debug\net6.0\refint\05-Fatorial.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\05-Fatorial\obj\Debug\net6.0\05-Fatorial.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\05-Fatorial\obj\Debug\net6.0\05-Fatorial.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula05\05-Fatorial\obj\Debug\net6.0\ref\05-Fatorial.dll
