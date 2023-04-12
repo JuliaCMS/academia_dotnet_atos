@@ -3,33 +3,33 @@
 Repositório criado para armazenar anotações e exercícios desenvolvidos durante as aulas.
 
 ### Aula 01 (03/abril)
-
 - Descrição sobre o funcionamento do curso
 - Instalação do Visual Studio 2022
 - Introdução a tipos de variáveis e suas aplicabilidades
-- Introdução a Estruturas Sequenciais
+- Introdução a estruturas sequenciais
 
 ### Aula 02 (04/abril)
-
 - Instalação do Git
-- Resolução de exercícios sequenciais básicos
-- Introdução a Estruturas de Decisão (condicionais)
+- Introdução a estruturas de decisão (condicionais)
 
 ### Aula 03 (05/abril)
-
-- Continuação sobre Estruturas Condicionais
+- Continuação sobre estruturas condicionais
     - Desvio Condicional Composto (IF aninhado)
-- Operadores Lógicos (AND, OR e NOT)
-- Resolução de exercícios condicionais básicos
+- Operadores lógicos (AND, OR e NOT)
 
 ### Aula 04 (06/abril)
 - Estrutura de condição Switch-Case
 - Operador ternário
-- Resolução de exercícios relacionados às últimas aulas
 
 ### Aula 05 (10/abril)
 - Estrutura de repetição FOR
-- Resolução de exercícios condicionais
+
+### Aula 06 (11/abril)
+- Nested loops
+- Declaração break e continue
+
+### Aula 07 (12/abril)
+- Estrutura de repetição While e Do While
 
 
 ## LINKS ÚTEIS
