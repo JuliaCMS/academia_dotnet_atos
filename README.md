@@ -41,3 +41,6 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - [Enumerable.OrderBy Método](https://learn.microsoft.com/pt-br/dotnet/api/system.linq.enumerable.orderby?view=net-7.0)
 - [OrderBy Exemplo](https://social.msdn.microsoft.com/Forums/pt-BR/a61789a0-d30d-4256-91bb-7032b1891e4a/organizando-array-em-ordem-crescente-c-sem-usar-sort?forum=vscsharppt)
 - [Como gerar números aleatórios com C#](http://www.bosontreinamentos.com.br/csharp/como-gerar-numeros-aleatorios-com-c/)
+- [String.IsNullOrEmpty(String) Método](https://learn.microsoft.com/pt-br/dotnet/api/system.string.isnullorempty?view=net-7.0)
+- [.Any(char.IsDigit) Método](https://learn.microsoft.com/pt-br/dotnet/api/system.char.isdigit?view=net-7.0)
+
