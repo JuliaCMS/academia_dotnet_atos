@@ -31,6 +31,9 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 ### Aula 07 (12/abril)
 - Estrutura de repetição While e Do While
 
+### Aula 08 (13/abril)
+- Vetores
+
 
 ## LINKS ÚTEIS
 
@@ -43,4 +46,7 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - [Como gerar números aleatórios com C#](http://www.bosontreinamentos.com.br/csharp/como-gerar-numeros-aleatorios-com-c/)
 - [String.IsNullOrEmpty(String) Método](https://learn.microsoft.com/pt-br/dotnet/api/system.string.isnullorempty?view=net-7.0)
 - [.Any(char.IsDigit) Método](https://learn.microsoft.com/pt-br/dotnet/api/system.char.isdigit?view=net-7.0)
-
+- [Array.Reverse Método](https://learn.microsoft.com/pt-br/dotnet/api/system.array.reverse?view=net-6.0)
+- [Array.Copy Método](https://learn.microsoft.com/pt-br/dotnet/api/system.array.copy?view=net-6.0)
+- [Concat method](https://stackoverflow.com/questions/59217/merging-two-arrays-in-net)
+- [Except and Intersect method](https://stackoverflow.com/questions/683310/getting-the-diff-between-two-arrays-in-c)
