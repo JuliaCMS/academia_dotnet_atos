@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\14-CodigoNumerico\bin\Debug\net6.0\14-CodigoNumerico.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\14-CodigoNumerico\bin\Debug\net6.0\14-CodigoNumerico.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\14-CodigoNumerico\bin\Debug\net6.0\14-CodigoNumerico.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\14-CodigoNumerico\bin\Debug\net6.0\14-CodigoNumerico.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\14-CodigoNumerico\bin\Debug\net6.0\14-CodigoNumerico.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\14-CodigoNumerico\obj\Debug\net6.0\14-CodigoNumerico.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\14-CodigoNumerico\obj\Debug\net6.0\14-CodigoNumerico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\14-CodigoNumerico\obj\Debug\net6.0\14-CodigoNumerico.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\14-CodigoNumerico\obj\Debug\net6.0\14-CodigoNumerico.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\14-CodigoNumerico\obj\Debug\net6.0\14-CodigoNumerico.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\14-CodigoNumerico\obj\Debug\net6.0\14-CodigoNumerico.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\14-CodigoNumerico\obj\Debug\net6.0\refint\14-CodigoNumerico.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\14-CodigoNumerico\obj\Debug\net6.0\14-CodigoNumerico.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\14-CodigoNumerico\obj\Debug\net6.0\14-CodigoNumerico.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\14-CodigoNumerico\obj\Debug\net6.0\ref\14-CodigoNumerico.dll

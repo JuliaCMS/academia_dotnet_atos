@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\16-OperacoesVetor\bin\Debug\net6.0\16-OperacoesVetor.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\16-OperacoesVetor\bin\Debug\net6.0\16-OperacoesVetor.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\16-OperacoesVetor\bin\Debug\net6.0\16-OperacoesVetor.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\16-OperacoesVetor\bin\Debug\net6.0\16-OperacoesVetor.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\16-OperacoesVetor\bin\Debug\net6.0\16-OperacoesVetor.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\16-OperacoesVetor\obj\Debug\net6.0\16-OperacoesVetor.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\16-OperacoesVetor\obj\Debug\net6.0\16-OperacoesVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\16-OperacoesVetor\obj\Debug\net6.0\16-OperacoesVetor.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\16-OperacoesVetor\obj\Debug\net6.0\16-OperacoesVetor.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\16-OperacoesVetor\obj\Debug\net6.0\16-OperacoesVetor.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\16-OperacoesVetor\obj\Debug\net6.0\16-OperacoesVetor.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\16-OperacoesVetor\obj\Debug\net6.0\refint\16-OperacoesVetor.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\16-OperacoesVetor\obj\Debug\net6.0\16-OperacoesVetor.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\16-OperacoesVetor\obj\Debug\net6.0\16-OperacoesVetor.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\16-OperacoesVetor\obj\Debug\net6.0\ref\16-OperacoesVetor.dll

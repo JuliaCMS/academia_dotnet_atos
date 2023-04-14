@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "12-BuscaNumero/1.0.0": {
+        "runtime": {
+          "12-BuscaNumero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "12-BuscaNumero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

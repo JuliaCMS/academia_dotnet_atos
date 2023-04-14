@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\05-ContaVotosPt2\bin\Debug\net6.0\05-ContaVotosPt2.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\05-ContaVotosPt2\bin\Debug\net6.0\05-ContaVotosPt2.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\05-ContaVotosPt2\bin\Debug\net6.0\05-ContaVotosPt2.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\05-ContaVotosPt2\bin\Debug\net6.0\05-ContaVotosPt2.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\05-ContaVotosPt2\bin\Debug\net6.0\05-ContaVotosPt2.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\05-ContaVotosPt2\obj\Debug\net6.0\05-ContaVotosPt2.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\05-ContaVotosPt2\obj\Debug\net6.0\05-ContaVotosPt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\05-ContaVotosPt2\obj\Debug\net6.0\05-ContaVotosPt2.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\05-ContaVotosPt2\obj\Debug\net6.0\05-ContaVotosPt2.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\05-ContaVotosPt2\obj\Debug\net6.0\05-ContaVotosPt2.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\05-ContaVotosPt2\obj\Debug\net6.0\05-ContaVotosPt2.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\05-ContaVotosPt2\obj\Debug\net6.0\refint\05-ContaVotosPt2.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\05-ContaVotosPt2\obj\Debug\net6.0\05-ContaVotosPt2.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\05-ContaVotosPt2\obj\Debug\net6.0\05-ContaVotosPt2.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\05-ContaVotosPt2\obj\Debug\net6.0\ref\05-ContaVotosPt2.dll

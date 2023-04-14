@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\13-Procura248\bin\Debug\net6.0\13-Procura248.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\13-Procura248\bin\Debug\net6.0\13-Procura248.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\13-Procura248\bin\Debug\net6.0\13-Procura248.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\13-Procura248\bin\Debug\net6.0\13-Procura248.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\13-Procura248\bin\Debug\net6.0\13-Procura248.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\13-Procura248\obj\Debug\net6.0\13-Procura248.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\13-Procura248\obj\Debug\net6.0\13-Procura248.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\13-Procura248\obj\Debug\net6.0\13-Procura248.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\13-Procura248\obj\Debug\net6.0\13-Procura248.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\13-Procura248\obj\Debug\net6.0\13-Procura248.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\13-Procura248\obj\Debug\net6.0\13-Procura248.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\13-Procura248\obj\Debug\net6.0\refint\13-Procura248.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\13-Procura248\obj\Debug\net6.0\13-Procura248.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\13-Procura248\obj\Debug\net6.0\13-Procura248.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\13-Procura248\obj\Debug\net6.0\ref\13-Procura248.dll

@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\11-InverteVetor\bin\Debug\net6.0\11-InverteVetor.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\11-InverteVetor\bin\Debug\net6.0\11-InverteVetor.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\11-InverteVetor\bin\Debug\net6.0\11-InverteVetor.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\11-InverteVetor\bin\Debug\net6.0\11-InverteVetor.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\11-InverteVetor\bin\Debug\net6.0\11-InverteVetor.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\11-InverteVetor\obj\Debug\net6.0\11-InverteVetor.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\11-InverteVetor\obj\Debug\net6.0\11-InverteVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\11-InverteVetor\obj\Debug\net6.0\11-InverteVetor.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\11-InverteVetor\obj\Debug\net6.0\11-InverteVetor.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\11-InverteVetor\obj\Debug\net6.0\11-InverteVetor.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\11-InverteVetor\obj\Debug\net6.0\11-InverteVetor.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\11-InverteVetor\obj\Debug\net6.0\refint\11-InverteVetor.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\11-InverteVetor\obj\Debug\net6.0\11-InverteVetor.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\11-InverteVetor\obj\Debug\net6.0\11-InverteVetor.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\11-InverteVetor\obj\Debug\net6.0\ref\11-InverteVetor.dll

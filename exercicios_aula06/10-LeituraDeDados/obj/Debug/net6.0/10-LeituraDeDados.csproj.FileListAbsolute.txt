@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\10-LeituraDeDados\bin\Debug\net6.0\10-LeituraDeDados.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\10-LeituraDeDados\bin\Debug\net6.0\10-LeituraDeDados.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\10-LeituraDeDados\bin\Debug\net6.0\10-LeituraDeDados.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\10-LeituraDeDados\bin\Debug\net6.0\10-LeituraDeDados.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\10-LeituraDeDados\bin\Debug\net6.0\10-LeituraDeDados.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\10-LeituraDeDados\obj\Debug\net6.0\10-LeituraDeDados.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\10-LeituraDeDados\obj\Debug\net6.0\10-LeituraDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\10-LeituraDeDados\obj\Debug\net6.0\10-LeituraDeDados.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\10-LeituraDeDados\obj\Debug\net6.0\10-LeituraDeDados.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\10-LeituraDeDados\obj\Debug\net6.0\10-LeituraDeDados.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\10-LeituraDeDados\obj\Debug\net6.0\10-LeituraDeDados.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\10-LeituraDeDados\obj\Debug\net6.0\refint\10-LeituraDeDados.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\10-LeituraDeDados\obj\Debug\net6.0\10-LeituraDeDados.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\10-LeituraDeDados\obj\Debug\net6.0\10-LeituraDeDados.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\10-LeituraDeDados\obj\Debug\net6.0\ref\10-LeituraDeDados.dll

@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\03-ParImparPrimo\bin\Debug\net6.0\03-ParImparPrimo.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\03-ParImparPrimo\bin\Debug\net6.0\03-ParImparPrimo.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\03-ParImparPrimo\bin\Debug\net6.0\03-ParImparPrimo.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\03-ParImparPrimo\bin\Debug\net6.0\03-ParImparPrimo.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\03-ParImparPrimo\bin\Debug\net6.0\03-ParImparPrimo.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\03-ParImparPrimo\obj\Debug\net6.0\03-ParImparPrimo.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\03-ParImparPrimo\obj\Debug\net6.0\03-ParImparPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\03-ParImparPrimo\obj\Debug\net6.0\03-ParImparPrimo.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\03-ParImparPrimo\obj\Debug\net6.0\03-ParImparPrimo.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\03-ParImparPrimo\obj\Debug\net6.0\03-ParImparPrimo.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\03-ParImparPrimo\obj\Debug\net6.0\03-ParImparPrimo.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\03-ParImparPrimo\obj\Debug\net6.0\refint\03-ParImparPrimo.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\03-ParImparPrimo\obj\Debug\net6.0\03-ParImparPrimo.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\03-ParImparPrimo\obj\Debug\net6.0\03-ParImparPrimo.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\03-ParImparPrimo\obj\Debug\net6.0\ref\03-ParImparPrimo.dll

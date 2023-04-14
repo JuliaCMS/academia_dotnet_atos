@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\07-NomeIdadeSalario\bin\Debug\net6.0\07-NomeIdadeSalario.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\07-NomeIdadeSalario\bin\Debug\net6.0\07-NomeIdadeSalario.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\07-NomeIdadeSalario\bin\Debug\net6.0\07-NomeIdadeSalario.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\07-NomeIdadeSalario\bin\Debug\net6.0\07-NomeIdadeSalario.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\07-NomeIdadeSalario\bin\Debug\net6.0\07-NomeIdadeSalario.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\07-NomeIdadeSalario\obj\Debug\net6.0\07-NomeIdadeSalario.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\07-NomeIdadeSalario\obj\Debug\net6.0\07-NomeIdadeSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\07-NomeIdadeSalario\obj\Debug\net6.0\07-NomeIdadeSalario.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\07-NomeIdadeSalario\obj\Debug\net6.0\07-NomeIdadeSalario.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\07-NomeIdadeSalario\obj\Debug\net6.0\07-NomeIdadeSalario.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\07-NomeIdadeSalario\obj\Debug\net6.0\07-NomeIdadeSalario.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\07-NomeIdadeSalario\obj\Debug\net6.0\refint\07-NomeIdadeSalario.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\07-NomeIdadeSalario\obj\Debug\net6.0\07-NomeIdadeSalario.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\07-NomeIdadeSalario\obj\Debug\net6.0\07-NomeIdadeSalario.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\07-NomeIdadeSalario\obj\Debug\net6.0\ref\07-NomeIdadeSalario.dll

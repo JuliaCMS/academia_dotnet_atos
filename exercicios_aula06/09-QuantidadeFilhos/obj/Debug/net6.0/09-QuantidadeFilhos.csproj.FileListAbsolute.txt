@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\09-QuantidadeFilhos\bin\Debug\net6.0\09-QuantidadeFilhos.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\09-QuantidadeFilhos\bin\Debug\net6.0\09-QuantidadeFilhos.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\09-QuantidadeFilhos\bin\Debug\net6.0\09-QuantidadeFilhos.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\09-QuantidadeFilhos\bin\Debug\net6.0\09-QuantidadeFilhos.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\09-QuantidadeFilhos\bin\Debug\net6.0\09-QuantidadeFilhos.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\09-QuantidadeFilhos\obj\Debug\net6.0\09-QuantidadeFilhos.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\09-QuantidadeFilhos\obj\Debug\net6.0\09-QuantidadeFilhos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\09-QuantidadeFilhos\obj\Debug\net6.0\09-QuantidadeFilhos.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\09-QuantidadeFilhos\obj\Debug\net6.0\09-QuantidadeFilhos.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\09-QuantidadeFilhos\obj\Debug\net6.0\09-QuantidadeFilhos.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\09-QuantidadeFilhos\obj\Debug\net6.0\09-QuantidadeFilhos.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\09-QuantidadeFilhos\obj\Debug\net6.0\refint\09-QuantidadeFilhos.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\09-QuantidadeFilhos\obj\Debug\net6.0\09-QuantidadeFilhos.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\09-QuantidadeFilhos\obj\Debug\net6.0\09-QuantidadeFilhos.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\09-QuantidadeFilhos\obj\Debug\net6.0\ref\09-QuantidadeFilhos.dll

@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\12-BuscaNumero\bin\Debug\net6.0\12-BuscaNumero.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\12-BuscaNumero\bin\Debug\net6.0\12-BuscaNumero.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\12-BuscaNumero\bin\Debug\net6.0\12-BuscaNumero.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\12-BuscaNumero\bin\Debug\net6.0\12-BuscaNumero.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\12-BuscaNumero\bin\Debug\net6.0\12-BuscaNumero.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\12-BuscaNumero\obj\Debug\net6.0\12-BuscaNumero.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\12-BuscaNumero\obj\Debug\net6.0\12-BuscaNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\12-BuscaNumero\obj\Debug\net6.0\12-BuscaNumero.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\12-BuscaNumero\obj\Debug\net6.0\12-BuscaNumero.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\12-BuscaNumero\obj\Debug\net6.0\12-BuscaNumero.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\12-BuscaNumero\obj\Debug\net6.0\12-BuscaNumero.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\12-BuscaNumero\obj\Debug\net6.0\refint\12-BuscaNumero.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\12-BuscaNumero\obj\Debug\net6.0\12-BuscaNumero.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\12-BuscaNumero\obj\Debug\net6.0\12-BuscaNumero.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\12-BuscaNumero\obj\Debug\net6.0\ref\12-BuscaNumero.dll

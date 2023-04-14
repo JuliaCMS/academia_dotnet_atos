@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\10-SubstituiValorNulo\bin\Debug\net6.0\10-SubstituiValorNulo.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\10-SubstituiValorNulo\bin\Debug\net6.0\10-SubstituiValorNulo.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\10-SubstituiValorNulo\bin\Debug\net6.0\10-SubstituiValorNulo.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\10-SubstituiValorNulo\bin\Debug\net6.0\10-SubstituiValorNulo.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\10-SubstituiValorNulo\bin\Debug\net6.0\10-SubstituiValorNulo.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\10-SubstituiValorNulo\obj\Debug\net6.0\10-SubstituiValorNulo.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\10-SubstituiValorNulo\obj\Debug\net6.0\10-SubstituiValorNulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\10-SubstituiValorNulo\obj\Debug\net6.0\10-SubstituiValorNulo.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\10-SubstituiValorNulo\obj\Debug\net6.0\10-SubstituiValorNulo.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\10-SubstituiValorNulo\obj\Debug\net6.0\10-SubstituiValorNulo.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\10-SubstituiValorNulo\obj\Debug\net6.0\10-SubstituiValorNulo.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\10-SubstituiValorNulo\obj\Debug\net6.0\refint\10-SubstituiValorNulo.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\10-SubstituiValorNulo\obj\Debug\net6.0\10-SubstituiValorNulo.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\10-SubstituiValorNulo\obj\Debug\net6.0\10-SubstituiValorNulo.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\10-SubstituiValorNulo\obj\Debug\net6.0\ref\10-SubstituiValorNulo.dll

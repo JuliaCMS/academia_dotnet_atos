@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\08-MostraNegativo\bin\Debug\net6.0\08-MostraNegativo.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\08-MostraNegativo\bin\Debug\net6.0\08-MostraNegativo.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\08-MostraNegativo\bin\Debug\net6.0\08-MostraNegativo.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\08-MostraNegativo\bin\Debug\net6.0\08-MostraNegativo.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\08-MostraNegativo\bin\Debug\net6.0\08-MostraNegativo.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\08-MostraNegativo\obj\Debug\net6.0\08-MostraNegativo.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\08-MostraNegativo\obj\Debug\net6.0\08-MostraNegativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\08-MostraNegativo\obj\Debug\net6.0\08-MostraNegativo.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\08-MostraNegativo\obj\Debug\net6.0\08-MostraNegativo.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\08-MostraNegativo\obj\Debug\net6.0\08-MostraNegativo.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\08-MostraNegativo\obj\Debug\net6.0\08-MostraNegativo.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\08-MostraNegativo\obj\Debug\net6.0\refint\08-MostraNegativo.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\08-MostraNegativo\obj\Debug\net6.0\08-MostraNegativo.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\08-MostraNegativo\obj\Debug\net6.0\08-MostraNegativo.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula08\08-MostraNegativo\obj\Debug\net6.0\ref\08-MostraNegativo.dll

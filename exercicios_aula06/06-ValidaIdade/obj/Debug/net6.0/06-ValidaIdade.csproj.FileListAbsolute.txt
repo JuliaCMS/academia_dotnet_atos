@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\06-ValidaIdade\bin\Debug\net6.0\06-ValidaIdade.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\06-ValidaIdade\bin\Debug\net6.0\06-ValidaIdade.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\06-ValidaIdade\bin\Debug\net6.0\06-ValidaIdade.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\06-ValidaIdade\bin\Debug\net6.0\06-ValidaIdade.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\06-ValidaIdade\bin\Debug\net6.0\06-ValidaIdade.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\06-ValidaIdade\obj\Debug\net6.0\06-ValidaIdade.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\06-ValidaIdade\obj\Debug\net6.0\06-ValidaIdade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\06-ValidaIdade\obj\Debug\net6.0\06-ValidaIdade.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\06-ValidaIdade\obj\Debug\net6.0\06-ValidaIdade.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\06-ValidaIdade\obj\Debug\net6.0\06-ValidaIdade.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\06-ValidaIdade\obj\Debug\net6.0\06-ValidaIdade.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\06-ValidaIdade\obj\Debug\net6.0\refint\06-ValidaIdade.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\06-ValidaIdade\obj\Debug\net6.0\06-ValidaIdade.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\06-ValidaIdade\obj\Debug\net6.0\06-ValidaIdade.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\06-ValidaIdade\obj\Debug\net6.0\ref\06-ValidaIdade.dll

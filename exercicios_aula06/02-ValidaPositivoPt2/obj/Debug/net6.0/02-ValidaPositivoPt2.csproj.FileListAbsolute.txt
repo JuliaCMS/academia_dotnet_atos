@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\02-ValidaPositivoPt2\bin\Debug\net6.0\02-ValidaPositivoPt2.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\02-ValidaPositivoPt2\bin\Debug\net6.0\02-ValidaPositivoPt2.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\02-ValidaPositivoPt2\bin\Debug\net6.0\02-ValidaPositivoPt2.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\02-ValidaPositivoPt2\bin\Debug\net6.0\02-ValidaPositivoPt2.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\02-ValidaPositivoPt2\bin\Debug\net6.0\02-ValidaPositivoPt2.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\02-ValidaPositivoPt2\obj\Debug\net6.0\02-ValidaPositivoPt2.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\02-ValidaPositivoPt2\obj\Debug\net6.0\02-ValidaPositivoPt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\02-ValidaPositivoPt2\obj\Debug\net6.0\02-ValidaPositivoPt2.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\02-ValidaPositivoPt2\obj\Debug\net6.0\02-ValidaPositivoPt2.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\02-ValidaPositivoPt2\obj\Debug\net6.0\02-ValidaPositivoPt2.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\02-ValidaPositivoPt2\obj\Debug\net6.0\02-ValidaPositivoPt2.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\02-ValidaPositivoPt2\obj\Debug\net6.0\refint\02-ValidaPositivoPt2.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\02-ValidaPositivoPt2\obj\Debug\net6.0\02-ValidaPositivoPt2.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\02-ValidaPositivoPt2\obj\Debug\net6.0\02-ValidaPositivoPt2.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula06\02-ValidaPositivoPt2\obj\Debug\net6.0\ref\02-ValidaPositivoPt2.dll
