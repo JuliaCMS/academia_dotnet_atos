@@ -34,6 +34,12 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 ### Aula 08 (13/abril)
 - Vetores
 
+### Aula 09 (14/abril)
+- Matrizes
+
+### Aula 10 (17/abril)
+- Finalização dos exercícios sobre matrizes
+
 
 ## LINKS ÚTEIS
 
