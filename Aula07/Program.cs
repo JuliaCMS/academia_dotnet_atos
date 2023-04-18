@@ -4,6 +4,38 @@
     {
         static void Main(string[] args)
         {
+           
+            //int numero = 0;
+            //for (; ; )
+            //{
+            //    Console.WriteLine("Digite um número inteiro positivo: ");
+            //    numero = int.Parse(Console.ReadLine());
+
+            //    if (numero >= 0 )
+            //    {
+            //        break;
+            //    }
+            //}
+
+            //for (int i = 1; i < numero; i++)
+            //{
+            //    if (i % 2 == 0)
+            //    {
+            //        Console.WriteLine(i);
+            //    }
+            //}
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
             // Resolução exercicio 01
             /*
             int x = 0;
@@ -23,6 +55,14 @@
             }
             */
 
+            
+            
+            
+            
+            
+            
+            
+            
             // SINTAXE WHILE
             /*
             criterio de inicio
@@ -31,6 +71,17 @@
 
             }
             */
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
 
             int x = 0;
              while (x <=  0)
