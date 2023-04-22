@@ -40,6 +40,17 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 ### Aula 10 (17/abril)
 - Finalização dos exercícios sobre matrizes
 
+### Aula 11 (18/abril)
+- Funções locais
+- Foi aplicado o primeiro desafio de construção de um Jogo da Velha em C#
+
+### Aula 12 (19/abril)
+- Aula reservada para a construção do primeiro desafio
+- Tirada de dúvidas
+
+### Aula 13 (20/abril)
+- Funcionamento da rede cliente-servidor
+- Tags HTML
 
 ## LINKS ÚTEIS
 
