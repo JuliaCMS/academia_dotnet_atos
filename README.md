@@ -52,6 +52,10 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Funcionamento da rede cliente-servidor
 - Tags HTML
 
+### Aula 14 (24/abril)
+- Redirecionamento de páginas HTML
+- Formulários HTML
+
 ## LINKS ÚTEIS
 
 - [String.Contains Método](https://learn.microsoft.com/pt-br/dotnet/api/system.string.contains?view=net-7.0)
