@@ -56,6 +56,22 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Redirecionamento de páginas HTML
 - Formulários HTML
 
+### Aula 15 (25/abril)
+- Aula sobre CSS
+- Box Model
+- Flexbox
+
+### Aula 16 (26/abril)
+- Foi aplicado o segundo desafio da academia.  
+>O desafio proposto foi a construção de um website utilizando apenas HTML e CSS com pelo menos 4 páginas HTML (Início, Sobre, Contato e Galeria de Imagens) e que possuísse uma interface amigável
+
+### Aula 17 (02/maio)
+- Aula sobre Programação Orientada a Objetos
+
+### Aula 18 (03/maio)
+- Aula sobre JavaScript 
+
+
 ## LINKS ÚTEIS
 
 - [String.Contains Método](https://learn.microsoft.com/pt-br/dotnet/api/system.string.contains?view=net-7.0)
