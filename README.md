@@ -62,7 +62,7 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Flexbox
 
 ### Aula 16 (26/abril)
-- Foi aplicado o segundo desafio da academia.  
+- Foi aplicado o segundo desafio da academia  
 >O desafio proposto foi a construção de um website utilizando apenas HTML e CSS com pelo menos 4 páginas HTML (Início, Sobre, Contato e Galeria de Imagens) e que possuísse uma interface amigável
 
 ### Aula 17 (02/maio)
@@ -70,6 +70,11 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 
 ### Aula 18 (03/maio)
 - Aula sobre JavaScript 
+- Aplicado o terceiro desafio da Academia
+>O desafio proposto foi a resolução de uma lista de exercícios de JavaScript
+
+### Aula 19 (4/maio)
+- Aula reservada para a resolução da lista de exercícios avaliativa sobre JavaScript
 
 
 ## LINKS ÚTEIS
