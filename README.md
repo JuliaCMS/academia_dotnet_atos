@@ -92,3 +92,5 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - [Array.Copy Método](https://learn.microsoft.com/pt-br/dotnet/api/system.array.copy?view=net-6.0)
 - [Concat method](https://stackoverflow.com/questions/59217/merging-two-arrays-in-net)
 - [Except and Intersect method](https://stackoverflow.com/questions/683310/getting-the-diff-between-two-arrays-in-c)
+- [HTML SELECT: Criando uma lista de seleção](https://www.devmedia.com.br/html-select-criando-uma-lista-de-selecao/43496)
+- [HTML DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
