@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\07-NovaMatrizSubtracao\obj\Debug\net6.0\07-NovaMatrizSubtracao.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\07-NovaMatrizSubtracao\obj\Debug\net6.0\07-NovaMatrizSubtracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\07-NovaMatrizSubtracao\obj\Debug\net6.0\07-NovaMatrizSubtracao.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\07-NovaMatrizSubtracao\obj\Debug\net6.0\07-NovaMatrizSubtracao.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\07-NovaMatrizSubtracao\obj\Debug\net6.0\07-NovaMatrizSubtracao.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\07-NovaMatrizSubtracao\bin\Debug\net6.0\07-NovaMatrizSubtracao.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\07-NovaMatrizSubtracao\bin\Debug\net6.0\07-NovaMatrizSubtracao.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\07-NovaMatrizSubtracao\bin\Debug\net6.0\07-NovaMatrizSubtracao.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\07-NovaMatrizSubtracao\bin\Debug\net6.0\07-NovaMatrizSubtracao.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\07-NovaMatrizSubtracao\bin\Debug\net6.0\07-NovaMatrizSubtracao.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\07-NovaMatrizSubtracao\obj\Debug\net6.0\07-NovaMatrizSubtracao.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\07-NovaMatrizSubtracao\obj\Debug\net6.0\refint\07-NovaMatrizSubtracao.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\07-NovaMatrizSubtracao\obj\Debug\net6.0\07-NovaMatrizSubtracao.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\07-NovaMatrizSubtracao\obj\Debug\net6.0\07-NovaMatrizSubtracao.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\07-NovaMatrizSubtracao\obj\Debug\net6.0\ref\07-NovaMatrizSubtracao.dll

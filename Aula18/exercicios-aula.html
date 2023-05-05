@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script>
+
+        // EXERCICIO 1: Mostrar os números impares de 1 à 10
+        // for (var i = 1; i <= 10; i++)
+        // {
+        //     if (i % 2 != 0)
+        //     {
+        //         alert(i);
+        //     }
+        // }
+
+
+
+        // EXERCICIO 2: Calcule e mostre a soma dos números 1 até o 100
+        // var soma = 0;
+        // for (var i = 1; i <= 100; i++)
+        // {
+        //     soma += i;
+        // }
+        // alert(soma);
+
+
+
+
+        //EXERCÍCIO 3: Adaptar esse exemplo para ele mostrar quantas vezes o botão foi clicado.
+        //quando atingir 5 cliques, não mostra mais mensagens.
+        //exemplo: <button onclick="alert('Botão clicado!');">Ok!</button>
+        //
+        //var clicks = 0; // continua no body
+
+
+
+
+
+    </script>
+</head>
+
+<body>
+    <!-- EXERCÍCIO 3:
+    <p>clique no botão</p>
+    <button onclick="clicks++; (clicks <= 5)?alert(clicks):console.log(clicks);">Ok!</button> -->
+
+
+
+
+
+    <!-- EXERCICIO 4: Construa uma página com dois inputs do tipo Text (um para nome e outro para
+    idade) e um botão. Ao clicar no botão, mostre uma mensagem como esta: "Juarez tem 22 anos" -->
+    <!-- <label for="nome">Digite seu nome:</label>
+    <input type="text" id="nome">
+    <label for="idade">Digite sua idade:</label>
+    <input type="text" id="idade">
+    <button onclick="dados()">Enviar</button>
+    
+    <script>
+        function dados() 
+        {
+          var nome = document.getElementById("nome").value;
+          var idade = document.getElementById("idade").value;
+          alert(nome + " tem " + idade + " anos.");
+        }
+    </script> -->
+
+
+
+
+
+
+
+    <!-- EXERCICIO 5: Construa uma página com dois inputs do tipo Text (um para nome e outro para
+    idade) e um botão. Ao clicar no botão, mostre uma mensagem como esta: "Juarez é maior de idade" -->
+    <!-- <label for="nome">Digite seu nome: </label>
+    <input type="text" id="nome">
+    <label for="idade">Digite sua idade: </label>
+    <input type="text" id="idade">
+    <button onclick="verificaIdade()">Enviar</button>
+
+    <script>
+        function verificaIdade()
+        {
+            var idade = document.getElementById("idade").value;
+            var nome = document.getElementById("nome").value;
+            if (idade >= 18)
+            {
+                alert(nome + " é maior de idade");
+            }
+            else
+            {
+                alert(nome + " é menor de idade");
+            }
+        }
+    </script> -->
+
+
+
+
+
+
+
+    <!-- EXERCICIO 6: Construa uma página com dois inputs do tipo Text e um botão. Ao clicar no botão, 
+    mostre o resultado da soma dos valores atribuídos aos inputs -->
+    <!-- <label for="numero1">Digite o primeiro número: </label>
+    <input type="text" id="numero1">
+    <label for="numero2">Digite o segundo número: </label>
+    <input type="text" id="numero2">
+    <button onclick="somaValores()">Somar</button>
+
+    <script>
+        function somaValores()
+    {
+        var num1 = parseFloat(document.getElementById("numero1").value);
+        var num2 = parseFloat(document.getElementById("numero2").value);
+        var soma = num1 + num2;
+        alert("A soma é: " + soma);
+    }
+    </script> -->
+
+
+
+
+
+
+
+    <!-- EXERCICIO 7: Continuando o exercicio anterior, mude a cor o botão para azul se o resultado for 
+    par e para verde se for impar -->
+    <label for="numero1">Digite o primeiro número: </label>
+    <input type="text" id="numero1">
+    <label for="numero2">Digite o segundo número: </label>
+    <input type="text" id="numero2">
+    <button id="botao" onclick="somaValores()">Somar</button>
+
+    <script>
+        function somaValores() {
+            var num1 = parseFloat(document.getElementById("numero1").value);
+            var num2 = parseFloat(document.getElementById("numero2").value);
+            var soma = num1 + num2;
+
+            if (soma % 2 === 0) {
+                botao.style.backgroundColor = "blue";
+            }
+            else {
+                botao.style.backgroundColor = "green";
+            }
+            alert("A soma é: " + soma);
+        }
+    </script>
+
+</body>
+
+</html>

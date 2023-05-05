@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <!-- <h1>Escolha uma cor:</h1>
+    <select onchange="changeColor(this.value)">
+        <option value="white">Branco</option>
+        <option value="red">Vermelho</option>
+        <option value="green">Verde</option>
+        <option value="blue">Azul</option>
+    </select>
+
+    <script>
+        function changeColor(color) {
+            document.body.style.backgroundColor = color;
+        }
+    </script> -->
+
+    <h1>Escolha uma cor:</h1>
+    <label><input type="radio" name="color" value="white" onchange="changeColor(this.value)">Branco</label>
+    <label><input type="radio" name="color" value="red" onchange="changeColor(this.value)">Vermelho</label>
+    <label><input type="radio" name="color" value="green" onchange="changeColor(this.value)">Verde</label>
+    <label><input type="radio" name="color" value="blue" onchange="changeColor(this.value)">Azul</label>
+
+    <script>
+        function changeColor(color) {
+            document.body.style.backgroundColor = color;
+        }
+    </script>
+</body>
+
+</html>

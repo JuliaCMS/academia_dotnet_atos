@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\09-PesquisaNumeroNaMatriz\bin\Debug\net6.0\09-PesquisaNumeroNaMatriz.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\09-PesquisaNumeroNaMatriz\bin\Debug\net6.0\09-PesquisaNumeroNaMatriz.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\09-PesquisaNumeroNaMatriz\bin\Debug\net6.0\09-PesquisaNumeroNaMatriz.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\09-PesquisaNumeroNaMatriz\bin\Debug\net6.0\09-PesquisaNumeroNaMatriz.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\09-PesquisaNumeroNaMatriz\bin\Debug\net6.0\09-PesquisaNumeroNaMatriz.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\09-PesquisaNumeroNaMatriz\obj\Debug\net6.0\09-PesquisaNumeroNaMatriz.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\09-PesquisaNumeroNaMatriz\obj\Debug\net6.0\09-PesquisaNumeroNaMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\09-PesquisaNumeroNaMatriz\obj\Debug\net6.0\09-PesquisaNumeroNaMatriz.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\09-PesquisaNumeroNaMatriz\obj\Debug\net6.0\09-PesquisaNumeroNaMatriz.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\09-PesquisaNumeroNaMatriz\obj\Debug\net6.0\09-PesquisaNumeroNaMatriz.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\09-PesquisaNumeroNaMatriz\obj\Debug\net6.0\09-PesquisaNumeroNaMatriz.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\09-PesquisaNumeroNaMatriz\obj\Debug\net6.0\refint\09-PesquisaNumeroNaMatriz.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\09-PesquisaNumeroNaMatriz\obj\Debug\net6.0\09-PesquisaNumeroNaMatriz.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\09-PesquisaNumeroNaMatriz\obj\Debug\net6.0\09-PesquisaNumeroNaMatriz.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\09-PesquisaNumeroNaMatriz\obj\Debug\net6.0\ref\09-PesquisaNumeroNaMatriz.dll

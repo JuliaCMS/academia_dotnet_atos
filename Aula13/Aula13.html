@@ -1,0 +1,200 @@
+<!--
+    
+    HTML (HyperText Markup Language / Linguagem de Marcação de Hipertexto) - abre e fecha tag
+
+    web funciona na ideia de arquitetura cliente-servidor
+        - o servidor (back-end) está sempre disponível e sua função é responder requisições do cliente
+        - cliente é o front-end, falando em web, cliente é o navegador
+            - html
+            - css
+            - javascript
+    
+    http (Hypertext Transfer Protocol / Protocolo de Transferência de Hipertexto) 
+    protocolo da internet -> protocolo de transferencias de dados na web
+    Ele é a base para a comunicação de dados da World Wide Web (www).
+
+    https - "s" de security - traz mais segurança para a transferência de dados http
+
+    url = domínio
+
+    https://www.ufn.edu.br/agenda/Colaborador
+    https -> protocolo web
+    https://www.ufn.edu.br -> URL
+    /agenda/Colaborador -> URN (é o recurso)
+    URI é o todo, é o termo mais completo (URL + URN)
+    
+    CMD - ping www.google.com.br -4 (o traço 4 no final força o ipv4)
+    DNS (Domain Name Server) -> servidor de domínio (IP do servidor?) 142.251.128.35
+    
+
+    páginas estáticas -> o conteúdo nao muda, geralmente apenas html, css e js
+    páginas dinâmicas -> faz requisição em banco de dados, etc e muda o conteúdo apresentado
+
+    
+
+    index é como se fosse a main // caso contrario precisa ser configurado
+
+    as tags podem ter atributos
+
+    ctrl + k + c -> faz comentário no html
+
+    lorem*2 -> gera um texto, o asterisco e numero indica a quantidade de parágrafos
+
+    emmets aumentam a produtividade (ex.: nav>ul>li*2)
+
+    as tags em branco não são mais utilizadas, como bgcolor e font
+
+    ! + enter -> gera a estrutura basica html
+
+-->
+
+<!DOCTYPE html> <!--indica pro navegador que é um código html5-->
+<html lang="pt-br"> <!--é a primeira linha do cod html; o lang indica o idioma da pagina, é bom para o SEO-->
+
+<head> <!--guarda as info de metadados-->
+    <title>Home</title>
+</head> <!--corpo do site-->
+
+<body bgcolor="yellow" text="blue"> <!--tag bgcolor não é mais utilizada mas ainda funciona-->
+    <header> <!--aqui é o cabeçalho-->
+        <h1>cabeçalho</h1>
+        <!-- <h2>cabeçalho</h2>
+            <h3>cabeçalho</h3>
+            <h4>cabeçalho</h4>
+            <h5>cabeçalho</h5>
+            <h6>cabeçalho</h6> -->
+
+        <nav> <!--menu, navigation-->
+            <ul> <!--lista não ordenada--> <!-- li - list item-->
+                <li>
+                    <a href="sobremim.html">item 1 do menu (sobremim)</a>
+                    <!--a indica que é um link e href indica o caminho do link-->
+                </li>
+                <li><a href="https://google.com" target="_blank">item 2 do menu</a></li>
+                <!--target="_blank" abre uma nova página ao clicar no link-->
+            </ul>
+        </nav>
+    </header>
+
+    <hr> <!--coloca um separador-->
+
+    <section id="posts"> <!--id é o identificador único, referente as postagens, nesse caso-->
+        <article class="post"> <!--article muito utilizada para notícias de site, posts em um blog, utlizado para uma postagem -->
+            <header> <!--os posts tambem podem ter seus cabeçalhos-->
+                <h3>Título do meu post</h3>
+                <h5>Postado por <b>Julia</b></h5> <!--tag b deixa em negrito-->
+                <p>
+                    Em: <time>20 de abril de 2023</time>
+                </p>
+            </header>
+
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam voluptatem placeat consequuntur provident
+                officiis, ex adipisci voluptatibus, ea, repudiandae delectus natus odio molestiae. Reiciendis excepturi nemo
+                illum sed animi alias.
+            </p>
+            <br> <!--quebra linha-->
+            <p>sequi minus, soluta provident non perspiciatis possimus molestias nostrum ex impedit pariatur ipsa eaque. Iusto
+                sit eius eveniet optio temporibus quae ad, rerum numquam possimus magni ipsum nobis. Voluptates.
+            </p>
+            <footer>
+                <p>25 comentários</p>
+                <p>105 curtidas</p>
+            </footer>
+        </article>
+    </section>
+
+    <hr>
+
+    <section id="posts"> <!--id é o identificador único, referente as postagens, nesse caso-->
+        <article class="post"> <!--article muito utilizada para notícias de site, posts em um blog, utlizado para uma postagem -->
+            <header> <!--os posts tambem podem ter seus cabeçalhos-->
+                <h3>Título do meu post</h3>
+                <h5>Postado por <b>Julia</b></h5> <!--tag b deixa em negrito-->
+                <p>
+                    Em: <time>20 de abril de 2023</time>
+                </p>
+            </header>
+
+            <p align="right">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam voluptatem placeat consequuntur provident
+                officiis, ex adipisci voluptatibus, ea, repudiandae delectus natus odio molestiae. Reiciendis excepturi nemo
+                illum sed animi alias.
+            </p>
+            
+            <aside> <!--aside serve para conteúdo a parte-->
+                <b>publicidade maravilhosa</b>
+            </aside>
+
+            <p align="left">sequi minus, soluta provident non perspiciatis possimus molestias nostrum ex impedit pariatur ipsa eaque. Iusto
+                sit eius eveniet optio temporibus quae ad, rerum numquam possimus magni ipsum nobis. Voluptates.
+            </p>
+
+            <p align="center">sequi minus, soluta provident non perspiciatis possimus molestias nostrum ex impedit pariatur ipsa eaque. Iusto
+                sit eius eveniet optio temporibus quae ad, rerum numquam possimus magni ipsum nobis. Voluptates.
+            </p>
+
+            <font face="Courier" size="5" color="red">
+                <p>sequi minus, <strong>soluta</strong> non <b>perspiciatis</b> possimus molestias nostrum ex impedit <sup>pariatur</sup> 
+                    ipsa eaque. Iusto sit eius eveniet optio <i>temporibus</i> quae ad, rerum <u>numquam</u> possimus <s>magni</s> ipsum 
+                    nobis. <sub>Voluptates</sub>. 
+                    <!--tag b (ou strong)-> negrito; tag i -> italico; tag u -> sublinhado; tag s -> rabiscado; sub -> deixa na parte inferior
+                    sup -> deixa na parte superior-->
+                </p>
+            </font>
+
+            <img src="img/sailor_mercury.jpg" alt="lua" width="200px"> <!--src indica o local da imagem-->
+            <img src="sailor_mercury.jpg" alt="exemplo de texto alternativo">
+            <!--<img src="sailor_mercury.jpg">-->
+            <!--<img src="~/img/sailor_mercury.jpg">-->
+            <!--<img src="../../../img/sailor_mercury.jpg">-->
+            <a href="https://www.google.com" target="_blank">
+                <img src="img/sailor_mercury.jpg" alt="lua" width="200px"> <!--aqui a imagem vira um link-->
+            </a>
+
+            <ul>
+                <li>item 1</li>
+                <li>item 2</li>
+                <li>item 3</li>
+            </ul>
+
+            <ol>
+                <li>item 1</li>
+                <li>item 2</li>
+                <li>item 3</li>
+            </ol>
+
+            <dl> <!--funciona como se fosse um dicionário-->
+                <dt>Item 1</dt>
+                <dd>Definição do item 1</dd>
+                <dt>Item 2</dt>
+                <dd>Definição do item 2</dd>
+                <dt>Item 3</dt>
+                <dd>Definição do item 3</dd>
+            </dl>
+            
+            <table border="1">
+                <tr> <!--table row (linha da tabela)-->
+                    <td>Linha 1, Coluna 1</td> <!--colunas-->
+                    <td>Linha 1, Coluna 2</td>
+                    <td>Linha 1, Coluna 3</td>
+                </tr>
+                <tr>
+                    <td>Linha 2, Coluna 1</td>
+                    <td>Linha 2, Coluna 2</td>
+                    <td>Linha 2, Coluna 3</td>
+                </tr>
+            </table>
+
+            <footer>
+                <p>25 comentários</p>
+                <p>105 curtidas</p>
+            </footer>
+        </article>
+    </section>
+
+    <footer> <!--rodapé-->
+        <p>Copyright Atos-UFN 2023</p>
+    </footer>
+
+</body>
+
+</html> <!--essa é a última fecha tag-->

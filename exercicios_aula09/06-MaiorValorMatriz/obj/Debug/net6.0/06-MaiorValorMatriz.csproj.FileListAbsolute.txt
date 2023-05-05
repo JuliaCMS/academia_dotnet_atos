@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\06-MaiorValorMatriz\bin\Debug\net6.0\06-MaiorValorMatriz.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\06-MaiorValorMatriz\bin\Debug\net6.0\06-MaiorValorMatriz.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\06-MaiorValorMatriz\bin\Debug\net6.0\06-MaiorValorMatriz.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\06-MaiorValorMatriz\bin\Debug\net6.0\06-MaiorValorMatriz.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\06-MaiorValorMatriz\bin\Debug\net6.0\06-MaiorValorMatriz.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\06-MaiorValorMatriz\obj\Debug\net6.0\06-MaiorValorMatriz.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\06-MaiorValorMatriz\obj\Debug\net6.0\06-MaiorValorMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\06-MaiorValorMatriz\obj\Debug\net6.0\06-MaiorValorMatriz.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\06-MaiorValorMatriz\obj\Debug\net6.0\06-MaiorValorMatriz.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\06-MaiorValorMatriz\obj\Debug\net6.0\06-MaiorValorMatriz.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\06-MaiorValorMatriz\obj\Debug\net6.0\06-MaiorValorMatriz.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\06-MaiorValorMatriz\obj\Debug\net6.0\refint\06-MaiorValorMatriz.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\06-MaiorValorMatriz\obj\Debug\net6.0\06-MaiorValorMatriz.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\06-MaiorValorMatriz\obj\Debug\net6.0\06-MaiorValorMatriz.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\06-MaiorValorMatriz\obj\Debug\net6.0\ref\06-MaiorValorMatriz.dll

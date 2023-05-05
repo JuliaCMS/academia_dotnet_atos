@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\04-DadosMatriz5x5\bin\Debug\net6.0\04-DadosMatriz5x5.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\04-DadosMatriz5x5\bin\Debug\net6.0\04-DadosMatriz5x5.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\04-DadosMatriz5x5\bin\Debug\net6.0\04-DadosMatriz5x5.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\04-DadosMatriz5x5\bin\Debug\net6.0\04-DadosMatriz5x5.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\04-DadosMatriz5x5\bin\Debug\net6.0\04-DadosMatriz5x5.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\04-DadosMatriz5x5\obj\Debug\net6.0\04-DadosMatriz5x5.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\04-DadosMatriz5x5\obj\Debug\net6.0\04-DadosMatriz5x5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\04-DadosMatriz5x5\obj\Debug\net6.0\04-DadosMatriz5x5.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\04-DadosMatriz5x5\obj\Debug\net6.0\04-DadosMatriz5x5.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\04-DadosMatriz5x5\obj\Debug\net6.0\04-DadosMatriz5x5.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\04-DadosMatriz5x5\obj\Debug\net6.0\04-DadosMatriz5x5.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\04-DadosMatriz5x5\obj\Debug\net6.0\refint\04-DadosMatriz5x5.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\04-DadosMatriz5x5\obj\Debug\net6.0\04-DadosMatriz5x5.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\04-DadosMatriz5x5\obj\Debug\net6.0\04-DadosMatriz5x5.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\04-DadosMatriz5x5\obj\Debug\net6.0\ref\04-DadosMatriz5x5.dll

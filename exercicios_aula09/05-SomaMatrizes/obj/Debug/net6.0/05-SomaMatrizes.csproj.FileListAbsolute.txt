@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\05-SomaMatrizes\bin\Debug\net6.0\05-SomaMatrizes.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\05-SomaMatrizes\bin\Debug\net6.0\05-SomaMatrizes.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\05-SomaMatrizes\bin\Debug\net6.0\05-SomaMatrizes.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\05-SomaMatrizes\bin\Debug\net6.0\05-SomaMatrizes.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\05-SomaMatrizes\bin\Debug\net6.0\05-SomaMatrizes.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\05-SomaMatrizes\obj\Debug\net6.0\05-SomaMatrizes.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\05-SomaMatrizes\obj\Debug\net6.0\05-SomaMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\05-SomaMatrizes\obj\Debug\net6.0\05-SomaMatrizes.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\05-SomaMatrizes\obj\Debug\net6.0\05-SomaMatrizes.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\05-SomaMatrizes\obj\Debug\net6.0\05-SomaMatrizes.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\05-SomaMatrizes\obj\Debug\net6.0\05-SomaMatrizes.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\05-SomaMatrizes\obj\Debug\net6.0\refint\05-SomaMatrizes.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\05-SomaMatrizes\obj\Debug\net6.0\05-SomaMatrizes.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\05-SomaMatrizes\obj\Debug\net6.0\05-SomaMatrizes.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\05-SomaMatrizes\obj\Debug\net6.0\ref\05-SomaMatrizes.dll

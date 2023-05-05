@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\02-SomaElementosLinhasEColunas\bin\Debug\net6.0\02-SomaElementosLinhasEColunas.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\02-SomaElementosLinhasEColunas\bin\Debug\net6.0\02-SomaElementosLinhasEColunas.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\02-SomaElementosLinhasEColunas\bin\Debug\net6.0\02-SomaElementosLinhasEColunas.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\02-SomaElementosLinhasEColunas\bin\Debug\net6.0\02-SomaElementosLinhasEColunas.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\02-SomaElementosLinhasEColunas\bin\Debug\net6.0\02-SomaElementosLinhasEColunas.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\02-SomaElementosLinhasEColunas\obj\Debug\net6.0\02-SomaElementosLinhasEColunas.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\02-SomaElementosLinhasEColunas\obj\Debug\net6.0\02-SomaElementosLinhasEColunas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\02-SomaElementosLinhasEColunas\obj\Debug\net6.0\02-SomaElementosLinhasEColunas.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\02-SomaElementosLinhasEColunas\obj\Debug\net6.0\02-SomaElementosLinhasEColunas.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\02-SomaElementosLinhasEColunas\obj\Debug\net6.0\02-SomaElementosLinhasEColunas.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\02-SomaElementosLinhasEColunas\obj\Debug\net6.0\02-SomaElementosLinhasEColunas.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\02-SomaElementosLinhasEColunas\obj\Debug\net6.0\refint\02-SomaElementosLinhasEColunas.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\02-SomaElementosLinhasEColunas\obj\Debug\net6.0\02-SomaElementosLinhasEColunas.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\02-SomaElementosLinhasEColunas\obj\Debug\net6.0\02-SomaElementosLinhasEColunas.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\02-SomaElementosLinhasEColunas\obj\Debug\net6.0\ref\02-SomaElementosLinhasEColunas.dll

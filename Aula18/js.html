@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script>
+        // alert('Pagina carregando...');
+
+        /*
+
+        var variavel = "valor";
+        var texto = 'valor';
+        var n1 = 50; // Number
+        var n2 = 5.9; // Number
+        var booleano = true;
+
+        var u = undefined;
+        var n = null;
+
+        var obj =
+        {
+            id: 1,
+            nome: "Fabricio"
+        }
+
+        var arrays = ["Fabricio", "Tonetto", "Londero"];
+
+        var func = function(x, y) // function é o "valor" da variável func
+        {
+            return x + y;
+        }
+
+        var retorno = func(5, 4);
+        alert(retorno);
+
+        */
+
+
+
+
+        /*
+
+        var valor = 2;
+
+        if (valor == "2") // == analisa apenas o valor da variavel
+        {
+            alert("Deu verdadeiro :o");
+        }
+
+        // comparação restrita
+        if (valor === "2")
+        {
+            alert("Deu verdadeiro 2 :o"); // === analisa o valor e o tipo da variavel
+        }
+        else
+        {
+            alert("Deu falso 2");
+        }
+
+        var retorno = (valor === 2)?"verdadeiro":"falso";
+        alert(retorno);
+
+        */
+
+
+
+
+        /*
+
+        var alunos = ["Lucas", "Leandro", "Bruno", "Julia", "Ayong"];
+
+        for (var i = 0; i < alunos.length; i++)
+        {
+            alert(alunos[i]);
+        }
+
+        */
+
+
+
+        /*
+
+        var nomeCompleto = ""; 
+        var professor =
+        {
+            nome: "Fabricio",
+            sobrenome: "Londero"
+        };
+
+        for (p in professor) {
+            nomeCompleto += professor[p] + " ";
+        }
+
+        alert(nomeCompleto);
+
+        */
+
+
+
+        /*
+        var num1 = 2;
+        var num2 = "4";
+
+        alert(num1 + num2);
+        */
+
+
+
+        var tags = document.getElementsByTagName("div");
+        var classes = document.getElementsByClassName("divs");
+        var unico = document.getElementById("div1");
+
+        console.log(tags);
+        console.log(classes);
+        console.log(unico);
+
+    </script>
+
+    <!-- <SCript src="teste.js"></SCript> -->
+</head>
+
+<body>
+
+    <div id="div1" class="divs">
+        JavaScript
+        <!-- <button onclick="alert('Botão clicado!');">Ok!</button> -->
+    </div>
+    <div class="divs">
+        .Net
+    </div>
+    <div>
+        C#
+    </div>
+    <br>
+
+
+
+
+    <input type="text" id="nome" onfocusout="minhaFuncao()">
+
+    <script>
+
+        function minhaFuncao() {
+            var nome = document.getElementById("nome");
+            // console.log(nome)
+            // console.log(nome.value);
+            nome.value = nome.value.toUpperCase();
+        }
+
+
+    </script>
+
+    
+</body>
+
+</html>

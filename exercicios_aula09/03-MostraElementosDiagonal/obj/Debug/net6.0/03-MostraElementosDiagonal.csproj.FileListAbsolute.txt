@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\03-MostraElementosDiagonal\bin\Debug\net6.0\03-MostraElementosDiagonal.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\03-MostraElementosDiagonal\bin\Debug\net6.0\03-MostraElementosDiagonal.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\03-MostraElementosDiagonal\bin\Debug\net6.0\03-MostraElementosDiagonal.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\03-MostraElementosDiagonal\bin\Debug\net6.0\03-MostraElementosDiagonal.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\03-MostraElementosDiagonal\bin\Debug\net6.0\03-MostraElementosDiagonal.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\03-MostraElementosDiagonal\obj\Debug\net6.0\03-MostraElementosDiagonal.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\03-MostraElementosDiagonal\obj\Debug\net6.0\03-MostraElementosDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\03-MostraElementosDiagonal\obj\Debug\net6.0\03-MostraElementosDiagonal.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\03-MostraElementosDiagonal\obj\Debug\net6.0\03-MostraElementosDiagonal.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\03-MostraElementosDiagonal\obj\Debug\net6.0\03-MostraElementosDiagonal.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\03-MostraElementosDiagonal\obj\Debug\net6.0\03-MostraElementosDiagonal.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\03-MostraElementosDiagonal\obj\Debug\net6.0\refint\03-MostraElementosDiagonal.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\03-MostraElementosDiagonal\obj\Debug\net6.0\03-MostraElementosDiagonal.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\03-MostraElementosDiagonal\obj\Debug\net6.0\03-MostraElementosDiagonal.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\03-MostraElementosDiagonal\obj\Debug\net6.0\ref\03-MostraElementosDiagonal.dll

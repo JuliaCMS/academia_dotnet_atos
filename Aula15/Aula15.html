@@ -1,0 +1,154 @@
+<!--
+    css -> (Cascading Style Sheets) linguagem de marcação para estilizar o HTML
+        pode aparecer nas paginas html de 3 formas:
+            - atributo style inline (dentro da tag html) não é muito usual na prática
+            - configurar um layout central (dentro do head) utilizando a tag <style>
+            - arquivo externo CSS <link rel="stylesheet" type="text/css" href="estilo.css">
+
+
+    id -> identificador único (funciona como um seletor no css)
+
+    - para referenciar elemento utiliza apenas o nome do elemento (exemplo: body)
+    - para referenciar id utiliza # + id
+    - para referenciar classe utuiliza . + classe
+
+    a:link -> link não visitado
+    
+    a:visited -> link já visitado
+
+    -------------------------------------------------------------------------------------------------
+
+    Box Model -> modelo de caixa que define onde cada elemento HTML vai ser renderizado na página
+    incluindo o seu tamanho, borda, preenchimento e margem.
+    existe hierarquia de elementos dentro do box model.
+
+    Elemento flutuante- um elemento pode ser "flutuado" à esquerda ou à direita com o uso da propriedade float.
+
+    --------------------------------------------------------------------------------------------------
+
+    O flexbox é um modelo de layout que permite criar layouts flexíveis e responsivos em HTML.
+    muda em tempo de execução
+
+    o display flex é definido no elemento pai, o que significa que todos os filhos desse elemento herdarão essa
+    propriedade. para usar o display: flex basta definir essa propriedade no elemento pai (no caso o body?)
+
+-->
+
+
+
+
+
+
+<!-- EXEMPLO DE CSS ATRIBUTO STYLE INLINE
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aula sobre DIV, id, class e CSS</title>
+    </head>
+
+    <body style="background-color: red;">      eu quero que todo o background tenha fundo vermelho ATRIBULO STYLE INLINE
+
+        <div id="div1">
+            <p>Oi, estou aqui dentro da div em um paragrafo</p>
+            <h1>Oi, estou aqui dentro da div no h1</h1>
+            <h2>Oi, estou aqui dentro da div no h2</h2>
+        </div>
+
+        <div id="div2">
+            <p>Oi, estou aqui dentro da div2 em um paragrafo</p>
+            <h1>Oi, estou aqui dentro da div no h1</h1>
+            <h2>Oi, estou aqui dentro da div no h2</h2>
+        </div>
+
+        <p>Oi, estou no paragrafo avulso</p>
+        <p id="letraazul" style="color: blue;">Oi, estou no paragrafo avulso 2</p>        eu quero que esse seja com letra azul ATRIBULO STYLE INLINE
+        <p id="letrarosa" style="color: magenta;">Oi, estou no paragrafo avulso 3</p>     eu quero que esse seja com letra rosa ATRIBULO STYLE INLINE
+    </body>
+</html>  
+
+-->
+
+
+
+
+
+
+
+
+<!-- EXEMPLO DE LAYOUT CENTRAL 
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aula sobre DIV, id, class e CSS</title>
+
+        <style type="text/css">
+            body {background-color: rgb(243, 180, 235);}
+            p {background-color: blueviolet;}
+            h1 {background-color: forestgreen; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;}
+            h2 {}
+            #div1 {
+                color: red !important
+            }
+            #pazul {
+                color: blue;
+            }
+        </style>
+
+    </head>
+
+    <body> 
+        <h1>Graphic Design Is My Passion</h1>
+    </body>
+</html>
+
+-->
+
+
+
+
+
+
+
+
+
+
+<!-- EXEMPLO DE ARQUIVO CSS EXTERNO 
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aula sobre DIV, id, class e CSS</title>
+        <link rel="stylesheet" type="text/css" href="estilo.css">
+    </head> 
+
+<body>
+    <div id="conteiner">
+        <h1>graphic design is my passion</h1>
+        <h2>Eu sei muito bem fazer uma página bonita</h2>
+    </div>
+
+    <h1 id="h1principal">Segue a escrita</h1>
+    <p class="classe1">Aqui eu estou escrevendo um parágrafo</p>
+    <h2>Segue a escrita</h2>
+    <p class="classe1">E aqui um segundo</p>
+
+    <a href="pag2.html">Clique aqui para acessar a pagina2 </a>
+
+    <p class="classe1">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis pellentesque tellus in lectus sodales ornare. 
+        Vivamus eu posuere lectus. Aenean blandit magna ligula, vitae accumsan sem sodales interdum. Nulla ante mi, 
+        porttitor ac sagittis eu, scelerisque nec dui. Vestibulum posuere odio ac malesuada volutpat. Donec non elit 
+        eget felis aliquam maximus. Etiam ultrices at massa eu vehicula. Integer viverra, metus et fermentum tempor, 
+        mi ante egestas eros, a porta lorem sapien sit amet quam. Morbi volutpat ex ligula, et euismod est semper 
+        malesuada. Donec semper quis justo eget dictum. Donec justo dolor, sodales in varius in, luctus ut dui.
+    </p>
+    </div>
+
+    
+</body>
+
+</html>
+
+-->

@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\08-OrdemDiretaEInversaMatriz\bin\Debug\net6.0\08-OrdemDiretaEInversaMatriz.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\08-OrdemDiretaEInversaMatriz\bin\Debug\net6.0\08-OrdemDiretaEInversaMatriz.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\08-OrdemDiretaEInversaMatriz\bin\Debug\net6.0\08-OrdemDiretaEInversaMatriz.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\08-OrdemDiretaEInversaMatriz\bin\Debug\net6.0\08-OrdemDiretaEInversaMatriz.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\08-OrdemDiretaEInversaMatriz\bin\Debug\net6.0\08-OrdemDiretaEInversaMatriz.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\08-OrdemDiretaEInversaMatriz\obj\Debug\net6.0\08-OrdemDiretaEInversaMatriz.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\08-OrdemDiretaEInversaMatriz\obj\Debug\net6.0\08-OrdemDiretaEInversaMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\08-OrdemDiretaEInversaMatriz\obj\Debug\net6.0\08-OrdemDiretaEInversaMatriz.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\08-OrdemDiretaEInversaMatriz\obj\Debug\net6.0\08-OrdemDiretaEInversaMatriz.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\08-OrdemDiretaEInversaMatriz\obj\Debug\net6.0\08-OrdemDiretaEInversaMatriz.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\08-OrdemDiretaEInversaMatriz\obj\Debug\net6.0\08-OrdemDiretaEInversaMatriz.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\08-OrdemDiretaEInversaMatriz\obj\Debug\net6.0\refint\08-OrdemDiretaEInversaMatriz.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\08-OrdemDiretaEInversaMatriz\obj\Debug\net6.0\08-OrdemDiretaEInversaMatriz.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\08-OrdemDiretaEInversaMatriz\obj\Debug\net6.0\08-OrdemDiretaEInversaMatriz.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\08-OrdemDiretaEInversaMatriz\obj\Debug\net6.0\ref\08-OrdemDiretaEInversaMatriz.dll

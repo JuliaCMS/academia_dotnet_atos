@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+
+<body>
+    <!-- 1- Crie um formulário com 4 botôes que, ao clicar em cada um, altere a cor do plano de fundo da página para vermelho, 
+    verde, azul e amarelo, respectivamente. -->
+
+    <!-- formulário com os botões -->
+    <form action="">
+        <button id="redBtn">Red background</button>
+        <button id="greenBtn">Green backgroung</button>
+        <button id="blueBtn">Blue background</button>
+        <button id="yellowBtn">Yellow background</button>
+    </form>
+
+
+    <script>
+        var redBtn = document.getElementById('redBtn');
+        var greenBtn = document.getElementById('greenBtn');
+        var blueBtn = document.getElementById('blueBtn');
+        var yellowBtn = document.getElementById('yellowBtn');
+
+        // adiciona um listener de evento em cada botão
+        redBtn.addEventListener('click', function (event) {
+            event.preventDefault();
+            document.body.style.backgroundColor = 'red';
+        });
+
+        greenBtn.addEventListener('click', function (event) {
+            event.preventDefault();
+            document.body.style.backgroundColor = 'green';
+        });
+
+        blueBtn.addEventListener('click', function (event) {
+            event.preventDefault();
+            document.body.style.backgroundColor = 'blue';
+        });
+
+        yellowBtn.addEventListener('click', function (event) {
+            event.preventDefault();
+            document.body.style.backgroundColor = 'yellow';
+        });
+    </script>
+</body>
+
+</html>

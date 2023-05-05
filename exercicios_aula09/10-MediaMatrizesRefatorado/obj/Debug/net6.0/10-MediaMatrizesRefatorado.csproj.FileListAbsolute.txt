@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\10-MediaMatrizesRefatorado\bin\Debug\net6.0\10-MediaMatrizesRefatorado.exe
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\10-MediaMatrizesRefatorado\bin\Debug\net6.0\10-MediaMatrizesRefatorado.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\10-MediaMatrizesRefatorado\bin\Debug\net6.0\10-MediaMatrizesRefatorado.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\10-MediaMatrizesRefatorado\bin\Debug\net6.0\10-MediaMatrizesRefatorado.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\10-MediaMatrizesRefatorado\bin\Debug\net6.0\10-MediaMatrizesRefatorado.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\10-MediaMatrizesRefatorado\obj\Debug\net6.0\10-MediaMatrizesRefatorado.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\10-MediaMatrizesRefatorado\obj\Debug\net6.0\10-MediaMatrizesRefatorado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\10-MediaMatrizesRefatorado\obj\Debug\net6.0\10-MediaMatrizesRefatorado.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\10-MediaMatrizesRefatorado\obj\Debug\net6.0\10-MediaMatrizesRefatorado.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\10-MediaMatrizesRefatorado\obj\Debug\net6.0\10-MediaMatrizesRefatorado.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\10-MediaMatrizesRefatorado\obj\Debug\net6.0\10-MediaMatrizesRefatorado.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\10-MediaMatrizesRefatorado\obj\Debug\net6.0\refint\10-MediaMatrizesRefatorado.dll
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\10-MediaMatrizesRefatorado\obj\Debug\net6.0\10-MediaMatrizesRefatorado.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\10-MediaMatrizesRefatorado\obj\Debug\net6.0\10-MediaMatrizesRefatorado.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_aula09\10-MediaMatrizesRefatorado\obj\Debug\net6.0\ref\10-MediaMatrizesRefatorado.dll

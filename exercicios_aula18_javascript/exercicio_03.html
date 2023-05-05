@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+
+<body>
+    <!-- 3 - Crie uma página com uma lista (select - RadioButton) com 4 opções de cores. Ao selecionar uma opção de cor, 
+    altere o plano de fundo da página para a cor específica. -->
+
+    <h1>Choose one color:</h1>
+    <input type="radio" id="red" name="color" value="red" onclick="changeColor()">
+    <label for="red">Red</label>
+    <br>
+    <input type="radio" id="green" name="color" value="green" onclick="changeColor()">
+    <label for="green">Green</label>
+    <br>
+    <input type="radio" id="blue" name="color" value="blue" onclick="changeColor()">
+    <label for="blue">Blue</label>
+    <br>
+    <input type="radio" id="yellow" name="color" value="yellow" onclick="changeColor()">
+    <label for="yellow">Yellow</label>
+
+    <script>
+        function changeColor() {
+            if (document.getElementById('red').checked) {
+                document.body.style.backgroundColor = 'red';
+            } else if (document.getElementById('green').checked) {
+                document.body.style.backgroundColor = 'green';
+            } else if (document.getElementById('blue').checked) {
+                document.body.style.backgroundColor = 'blue';
+            } else if (document.getElementById('yellow').checked) {
+                document.body.style.backgroundColor = 'yellow';
+            }
+        }
+    </script>
+</body>
+
+</html>
