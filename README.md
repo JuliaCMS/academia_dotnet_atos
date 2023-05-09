@@ -94,3 +94,4 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - [Except and Intersect method](https://stackoverflow.com/questions/683310/getting-the-diff-between-two-arrays-in-c)
 - [HTML SELECT: Criando uma lista de seleção](https://www.devmedia.com.br/html-select-criando-uma-lista-de-selecao/43496)
 - [HTML DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
+- [W3Schools](https://www.w3schools.com/)
