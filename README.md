@@ -66,7 +66,8 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 >O desafio proposto foi a construção de um website utilizando apenas HTML e CSS com pelo menos 4 páginas HTML (Início, Sobre, Contato e Galeria de Imagens) e que possuísse uma interface amigável
 
 ### Aula 17 (02/maio)
-- Aula sobre Programação Orientada a Objetos
+- Aula sobre Introdução à Programação Orientada a Objetos
+- Classes, Objetos, Propriedades(atributos) e Métodos
 
 ### Aula 18 (03/maio)
 - Aula sobre JavaScript 
