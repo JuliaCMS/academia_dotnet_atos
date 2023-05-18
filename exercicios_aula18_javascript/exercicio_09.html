@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+</head>
+
+<body>
+  <!-- 9 - Crie um formulário com os campos para cadastrar o usuário de um sistema (login, senha e confirmar senha). 
+    Permita que a página seja submetida apenas se todos os campos estiverem preenchidos, se os campos senha e confirma 
+    senha forem iguais e a senha possuir entre 6 e 10 caracteres. -->
+
+  <h1>Register</h1>
+  <form onsubmit="return validateForm()">
+    <label for="login">Login: </label>
+    <input type="text" id="login" name="login" required>
+    <br><br>
+
+    <label for="password">Password: </label>
+    <input type="password" id="password" name="password" required minlength="6" maxlength="10">
+    <p>* The password must contain between 6-10 characters.</p>
+    
+    <label for="confirmPassword">Confirm password: </label>
+    <input type="password" id="confirmPassword" name="confirmPassword" required minlength="6" maxlength="10">
+    <br><br>
+
+    <input type="submit" value="Submit">
+  </form>
+
+  <script>
+    function validateForm() {
+      var password = document.getElementById("password").value;
+      var confirmPassword = document.getElementById("confirmPassword").value;
+
+      // Verifica se as senhas são iguais
+      if (password != confirmPassword) {
+        alert("The passwords do not match");
+        return false;
+      }
+
+      // Verifica se a senha possui entre 6 e 10 dígitos
+      if (password.length < 6 || password.length > 10) {
+        return false;
+      }
+
+      // Se todas as validações passarem, permitir que a página seja submetida, caso contrário exibe o alert de erro
+      if (!validateForm()) {
+        alert("Fill the form according to the required specifications.");
+        return false;
+      }
+
+      return true;
+    }
+  </script>
+
+</body>
+
+</html>

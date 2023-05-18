@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+</head>
+
+<body>
+    <!-- 6 – Crie um parágrafo com um texto como conteúdo. Crie 4 botões. Dois para trocar a cor da fonte, de branco 
+    para preto e vice-versa e outros dois para fazer o mesmo com o fundo do parágrafo. Use divs se julgar necessário. -->
+    <div id="container">
+        <p id="text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis optio eveniet, reiciendis ducimus
+            doloribus eum magnam soluta iste incidunt! Rerum fugit quibusdam laborum voluptatem quaerat fuga ab quis
+            ratione. Obcaecati. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas dolorum reiciendis ratione
+            eius distinctio sequi expedita necessitatibus, vero, placeat autem porro quod quam dolore quo suscipit ut?
+            Architecto, odio quia!</p>
+    </div>
+
+    <button id="changeFontToWhite">Fonte branca</button>
+    <button id="changeFontToBlack">Fonte preta</button>
+    <button id="changeBackgroundToWhite">Fundo branco</button>
+    <button id="changeBackgroundToBlack">Fundo preto</button>
+
+    <script>
+        var changeFontToWhite = document.getElementById("changeFontToWhite");
+        var changeFontToBlack = document.getElementById("changeFontToBlack");
+        var changeBackgroundToWhite = document.getElementById("changeBackgroundToWhite");
+        var changeBackgroundToBlack = document.getElementById("changeBackgroundToBlack");
+        var container = document.getElementById("container");
+        var text = document.getElementById("text");
+
+        changeFontToWhite.addEventListener("click", () => {
+            text.style.color = "white";
+        });
+
+        changeFontToBlack.addEventListener("click", () => {
+            text.style.color = "black";
+        });
+
+        changeBackgroundToWhite.addEventListener("click", () => {
+            container.style.backgroundColor = "white";
+        });
+
+        changeBackgroundToBlack.addEventListener("click", () => {
+            container.style.backgroundColor = "black";
+        });
+
+    </script>
+
+
+
+</body>
+
+</html>

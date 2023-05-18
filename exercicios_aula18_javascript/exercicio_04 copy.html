@@ -12,11 +12,14 @@
     <p id="text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquid eveniet qui impedit adipisci quod
         porro laboriosam similique aut rem error asperiores fuga ab quidem ut quis totam, nobis illum. Vero.</p>
 
-    <button id="btn" onclick="toggle()">Cick on this button to hide the content above</button>
+    <button id="btn" onclick="toggle()">Cick on this button to hide the content above.</button>
 
     <script>
+  
         function toggle() {
-            var textToggle = document.getElementById("text");
+            console.log("hi");
+            let textToggle = document.getElementById("text");
+            console.log(textToggle.style.display);
 
             if (textToggle.style.display == "") {
                 textToggle.style.display = "none";
@@ -25,6 +28,7 @@
 
             }
         }
+
     </script>
 </body>
 

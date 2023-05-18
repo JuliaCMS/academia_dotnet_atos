@@ -1,0 +1,42 @@
+-------- AULA SOBRE ORIENTAÇÃO A OBJETOS ---------
+
+Orientação a objetos é um paradigma de programação assim como a orientação estruturada
+mas é uma forma melhor para reutilizar melhor o código, esse é a sua principal caracteristica 
+
+	- Estruturada: utiliza procedimentos (funções) - manipulam dados locais que estão dentro das funções e até dados globais que estão dentro do 
+	  programa
+		- utilizamos programação estruturada no desafio do jogo da velha, utilizando as funções dentro da classe principal
+            - hoje em dia não é muito utilizado, pois é necessário escrever muito código para realizar a mesma coisa
+      - Orientada a objetos: programação em cima de elementos que possuem os seus dados que são chamados de atributos, e as suas funções que são 
+	  chamadas de metodos (comportamentos)
+            - consiste no mapeamento do problema no mundo real a ser resolvido em um modelo computacional
+            - modularização de softwares
+            - um objeto é algo do mundo real ou abstrato
+            - um objeto é uma instância de uma classe, que é uma estrutura de dados que define as propriedades e métodos do objeto.
+              As propriedades, também chamadas de atributos, são as características do objeto e são representadas por variáveis que armazenam valores 
+		  específicos ex: classe Pessoa, string nome, string rg, string CPF;
+              Os métodos são as operações ou comportamentos do objeto, e eles podem ser invocados para modificar as propriedades do objeto ou 
+		  retornar informações sobre ele;
+              O relacionamento entre os objetos é definido pela interação entre seus métodos e propriedades, permitindo que eles trabalhem juntos 
+		  para executar uma tarefa específica;
+              *Cada objeto tem seu próprio conjunto de propriedades e métodos, que são definidos pela classe a partir da qual foi criado. 
+              Isso significa que objetos diferentes podem ter comportamentos diferentes, mesmo que sejam criados a partir da mesma classe.*
+              Em resumo, a POO permite que os desenvolvedores criem programas mais modulares, organizando o código em objetos que podem ser facilmente 
+		  reutilizados em diferentes partes do programa.
+
+IMPORTANTE: classe é uma estrutura de dados que define um tipo de objeto. Ela define quais são as propriedades e métodos que um objeto criado a partir dessa 
+classe terá. 
+Já um objeto é uma instância dessa classe. Quando um objeto é criado, ele herda todas as propriedades e métodos definidos na classe, tornando-se uma entidade 
+independente com seu próprio estado e comportamento. --> cada objeto é UNICO e ocupa um espaço na memória
+
+		- construtor sempre é definido com o mesmo nome da classe (OBRIGATORIAMENTE)
+			- O construtor é um método especial que é chamado quando um objeto é criado a partir da classe correspondente. É usado para inicializar os 			  valores dos atributos do objeto.
+			- diferença de um construtor para um método tradicional: o construtor nunca vai ter retorno, ele só constrói um objeto.
+			- é importante usar construtor, principalmente quando precisamos lidar com encapsulamento, proteção de dados (public, private...)
+
+* método sempre começa com letra minúscula, o construtor deve iniciar com letra maiuscula e ser igual ao nome da classe
+
+
+
+Sobrecarga de métodos: 
+

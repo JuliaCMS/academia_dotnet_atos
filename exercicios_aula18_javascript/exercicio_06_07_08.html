@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+</head>
+
+<body>
+    <!-- 6 – Crie um parágrafo com um texto como conteúdo. Crie 4 botões. Dois para trocar a cor da fonte, de branco 
+    para preto e vice-versa e outros dois para fazer o mesmo com o fundo do parágrafo. Use divs se julgar necessário. -->
+    <!-- 7 - Crie um botão + (mais) e outro - (menos) na mesma página do exercício anterior. Esses botões aumentam e 
+    diminuem o tamanho da fonte, respectivamente. -->
+    <!-- 8 - Ainda continuando no exercício 6, faça um botão que transforme todo o texto do parágrafo em maiúscula, e 
+    outro em minúscula. -->
+
+    <div id="container">
+        <p id="text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quis optio eveniet, reiciendis ducimus
+            doloribus eum magnam soluta iste incidunt! Rerum fugit quibusdam laborum voluptatem quaerat fuga ab quis
+            ratione. Obcaecati. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas dolorum reiciendis ratione
+            eius distinctio sequi expedita necessitatibus, vero, placeat autem porro quod quam dolore quo suscipit ut?
+            Architecto, odio quia!</p>
+    </div>
+
+    <button onclick="changeFontToWhite()">White font</button>
+    <button onclick="changeFontToBlack()">Black font</button>
+    <button onclick="changeBackgroundToWhite()">White background</button>
+    <button onclick="changeBackgroundToBlack()">Black background</button>
+
+    <button onclick="changeFontSize(1)">+</button>
+    <button onclick="changeFontSize(-1)">-</button>
+
+    <button onclick="toUpperCase()">Upper case</button>
+    <button onclick="toLowerCase()">Lower case</button>
+
+    <script>
+        var container = document.getElementById("container");
+        var text = document.getElementById("text");
+
+        // Muda as cores das fontes
+        function changeFontToWhite() {
+            text.style.color = "white";
+        }
+
+        function changeFontToBlack() {
+            text.style.color = "black";
+        }
+
+        // Muda as cores do background
+        function changeBackgroundToWhite() {
+            container.style.backgroundColor = "white";
+        }
+
+        function changeBackgroundToBlack() {
+            container.style.backgroundColor = "black";
+        }
+
+        // Altera o tamanho do parágrafo
+        function changeFontSize(change) { // Busca o argumento atribuído no botão clicado
+            var currentFontSize = parseInt(text.style.fontSize) || 16;
+            /* A variável currentFontSize é declarada e inicializada com o tamanho da fonte atual do elemento text em px. 
+            Se o tamanho da fonte atual não puder ser convertido em número, o parseInt(text.style.fontSize) retornará NaN. 
+            Se isso acontecer, currentFontSize será definida como 16 pixels, usando o operador OR.*/
+            text.style.fontSize = currentFontSize + change + "px";
+            /* Constrói o novo tamanho de fonte do text, que é o tamanho atual + mudança especificada pelo argumento change em pixels.*/
+        }
+        
+        // Altera text para maiúsculo ou minúsculo
+        function toUpperCase() {
+            text.textContent = text.textContent.toUpperCase();
+        }
+
+        function toLowerCase() {
+            text.textContent = text.textContent.toLowerCase();
+        }
+
+    </script>
+
+</body>
+
+</html>
