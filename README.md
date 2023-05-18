@@ -96,3 +96,4 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - [HTML SELECT: Criando uma lista de seleção](https://www.devmedia.com.br/html-select-criando-uma-lista-de-selecao/43496)
 - [HTML DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
 - [W3Schools](https://www.w3schools.com/)
+- [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
