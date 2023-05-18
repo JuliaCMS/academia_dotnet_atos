@@ -66,7 +66,8 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 >O desafio proposto foi a construção de um website utilizando apenas HTML e CSS com pelo menos 4 páginas HTML (Início, Sobre, Contato e Galeria de Imagens) e que possuísse uma interface amigável
 
 ### Aula 17 (02/maio)
-- Aula sobre Programação Orientada a Objetos
+- Aula sobre Introdução à Programação Orientada a Objetos
+- Classes, Objetos, Propriedades(atributos) e Métodos
 
 ### Aula 18 (03/maio)
 - Aula sobre JavaScript 
@@ -92,3 +93,6 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - [Array.Copy Método](https://learn.microsoft.com/pt-br/dotnet/api/system.array.copy?view=net-6.0)
 - [Concat method](https://stackoverflow.com/questions/59217/merging-two-arrays-in-net)
 - [Except and Intersect method](https://stackoverflow.com/questions/683310/getting-the-diff-between-two-arrays-in-c)
+- [HTML SELECT: Criando uma lista de seleção](https://www.devmedia.com.br/html-select-criando-uma-lista-de-selecao/43496)
+- [HTML DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
+- [W3Schools](https://www.w3schools.com/)
