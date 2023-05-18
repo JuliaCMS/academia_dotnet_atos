@@ -3,12 +3,10 @@
 Orientação a objetos é um paradigma de programação assim como a orientação estruturada
 mas é uma forma melhor para reutilizar melhor o código, esse é a sua principal caracteristica 
 
-	- Estruturada: utiliza procedimentos (funções) - manipulam dados locais que estão dentro das funções e até dados globais que estão dentro do 
-	  programa
+	- Estruturada: utiliza procedimentos (funções) - manipulam dados locais que estão dentro das funções e até dados globais que estão dentro do programa
 		- utilizamos programação estruturada no desafio do jogo da velha, utilizando as funções dentro da classe principal
             - hoje em dia não é muito utilizado, pois é necessário escrever muito código para realizar a mesma coisa
-      - Orientada a objetos: programação em cima de elementos que possuem os seus dados que são chamados de atributos, e as suas funções que são 
-	  chamadas de metodos (comportamentos)
+      - Orientada a objetos: programação em cima de elementos que possuem os seus dados que são chamados de atributos, e as suas funções que são chamadas de metodos (comportamentos)
             - consiste no mapeamento do problema no mundo real a ser resolvido em um modelo computacional
             - modularização de softwares
             - um objeto é algo do mundo real ou abstrato
@@ -30,7 +28,7 @@ Já um objeto é uma instância dessa classe. Quando um objeto é criado, ele he
 independente com seu próprio estado e comportamento. --> cada objeto é UNICO e ocupa um espaço na memória
 
 		- construtor sempre é definido com o mesmo nome da classe (OBRIGATORIAMENTE)
-			- O construtor é um método especial que é chamado quando um objeto é criado a partir da classe correspondente. É usado para inicializar os 			  valores dos atributos do objeto.
+			- O construtor é um método especial que é chamado quando um objeto é criado a partir da classe correspondente. É usado para inicializar os valores dos atributos do objeto.
 			- diferença de um construtor para um método tradicional: o construtor nunca vai ter retorno, ele só constrói um objeto.
 			- é importante usar construtor, principalmente quando precisamos lidar com encapsulamento, proteção de dados (public, private...)
 

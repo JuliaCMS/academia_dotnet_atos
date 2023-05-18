@@ -15,10 +15,11 @@ namespace Aula17
 
         //// atalho para o construtor: ctor
 
-        //public Pessoa()
+        //public Pessoa() // construtor vazio
         //{
 
         //}
+
         //public Pessoa(string nome, int idade)
         //{
         //    this.nome = nome;
@@ -29,7 +30,7 @@ namespace Aula17
         //{
         //    Console.WriteLine("Nome: " + this.nome); // this serve para referenciar o atributo dentro da classe
         //    Console.WriteLine("Idade: " + this.idade);
-
+        //}
         // ----------- FIM DO CONTEÚDO DA AULA -------------------
 
 

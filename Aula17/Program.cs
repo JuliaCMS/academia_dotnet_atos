@@ -7,11 +7,11 @@
             /*
              
             Console.WriteLine("Olá, estou no meu primeiro programa OO");
-            Pessoa p = new Pessoa(); // instanciando um objeto do tipo pessoa (criando uma instância da classe pessoa)
-            Console.WriteLine("Digite o nome da pessoa: "); // aqui estou atribuindo o nome que vem da classe pessoa
-            p.nome = Console.ReadLine();
-            Console.WriteLine("Digite a idade da pessoa: "); // aqui estou atribuindo a idade que vem da classe pessoa
-            p.idade = int.Parse(Console.ReadLine());
+            Pessoa p = new Pessoa(); // instanciando um objeto do tipo pessoa (criando uma instância da classe Pessoa)
+            Console.WriteLine("Digite o nome da pessoa: "); 
+            p.nome = Console.ReadLine(); // aqui estou atribuindo o nome que vem da classe pessoa
+            Console.WriteLine("Digite a idade da pessoa: "); 
+            p.idade = int.Parse(Console.ReadLine()); // aqui estou atribuindo a idade que vem da classe pessoa
 
             // abaixo, estou exibindo os dados:
             //Console.WriteLine($"A pessoa instanciada é: {p.nome}\nE tem {p.idade} anos.");
@@ -50,13 +50,9 @@
             carro2.anoFabricacao = int.Parse(Console.ReadLine());
 
             Console.WriteLine("------------------------------");
-            Console.WriteLine();
             carro1.exibeDados();
-            Console.WriteLine();
             Console.WriteLine("------------------------------");
-            Console.WriteLine();
             carro1.exibeDados();
-            Console.WriteLine();
             Console.WriteLine("------------------------------");
 
             */
@@ -71,7 +67,6 @@
              * deverão ser definidos no código-fonte da classe que o criou. Exiba na tela os resultados
 
             Computador computador1 = new Computador();
-            Computador computador2 = new Computador();
             
             Console.WriteLine("Informe a marca do computador 1: ");
             computador1.marca = Console.ReadLine();
@@ -82,39 +77,15 @@
             Console.WriteLine("Informe o preço do computador 1: ");
             computador1.preco = double.Parse(Console.ReadLine());
             Console.WriteLine("------------------------------");
-            Console.WriteLine("Informe a marca do computador 2: ");
-            computador2.marca = Console.ReadLine();
-            Console.WriteLine("Informe o modelo do computador 2: ");
-            computador2.modelo = Console.ReadLine();
-            Console.WriteLine("Informe o tipo do computador 2: ");
-            computador2.tipo = Console.ReadLine();
-            Console.WriteLine("Informe o preço do computador 2: ");
-            computador2.preco = double.Parse(Console.ReadLine());
-
-            Computador computador3 = new Computador("Acer", "Aspire 5", "Notebook", 2500.00);
-            Computador computador4 = new Computador("Mac", "Macbook Pro 13", "Notebook", 185454.99);
-
+            
+            Computador computador2 = new Computador("Acer", "Aspire 5", "Notebook", 2500.00);
+            
             Console.WriteLine("------------------------------");
-            Console.WriteLine();
             computador1.exibeDadosComputador();
-            Console.WriteLine();
             Console.WriteLine("------------------------------");
-            Console.WriteLine();
             computador2.exibeDadosComputador();
-            Console.WriteLine();
-            Console.WriteLine("------------------------------");
-            Console.WriteLine();
-            computador3.exibeDadosComputador();
-            Console.WriteLine();
-            Console.WriteLine("------------------------------");
-            Console.WriteLine();
-            computador4.exibeDadosComputador();
-            Console.WriteLine();
-            Console.WriteLine("------------------------------");
 
             */
-
-
 
 
 
@@ -176,8 +147,8 @@
 
             //------------------ EXERCÍCIO 5 ------------------
             /* Crie uma classe ContaCorrente que obedeça à descrição abaixo: A classe possui o atributo saldo do tipo double e os métodos definirSaldoInicial, depositar 
-             * e sacar. O método definirSaldoInicial deve atribuir o valor passado por parâmetro ao atribuito saldo O método depositar, deve adicionar o valor passado por 
-             * parâmetro ao atributo saldo O método sacar deve reduzir o valor passado por parâmetro do saldo já existente Necessário verificar a condição de o valor do 
+             * e sacar. O método definirSaldoInicial deve atribuir o valor passado por parâmetro ao atribuito saldo. O método depositar, deve adicionar o valor passado por 
+             * parâmetro ao atributo saldo. O método sacar deve reduzir o valor passado por parâmetro do saldo já existente Necessário verificar a condição de o valor do 
              * saldo ser insuficiente para o saque que se deseja fazer. O valor de retorno deve ser true (verdadeiro) quando for possível realizar o saque e false (falso) 
              * quando não for possível */
 
