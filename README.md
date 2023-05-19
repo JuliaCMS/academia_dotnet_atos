@@ -74,8 +74,12 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Aplicado o terceiro desafio da Academia
 >O desafio proposto foi a resolução de uma lista de exercícios de JavaScript
 
-### Aula 19 (4/maio)
+### Aula 19 (04/maio)
 - Aula reservada para a resolução da lista de exercícios avaliativa sobre JavaScript
+
+### Aula 20 (05/maio)
+- Teoria da Programação Orientada a Objetos
+- Exercícios de OO: Estacionamento, Unidade de Saúde
 
 
 ## LINKS ÚTEIS
