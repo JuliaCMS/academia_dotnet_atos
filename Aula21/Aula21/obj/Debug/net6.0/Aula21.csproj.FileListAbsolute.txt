@@ -1,0 +1,5 @@
+C:\Workspace\academia_dotnet_atos\Aula21\Aula21\obj\Debug\net6.0\Aula21.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\Aula21\Aula21\obj\Debug\net6.0\Aula21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\Aula21\Aula21\obj\Debug\net6.0\Aula21.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\Aula21\Aula21\obj\Debug\net6.0\Aula21.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\Aula21\Aula21\obj\Debug\net6.0\Aula21.csproj.CoreCompileInputs.cache
