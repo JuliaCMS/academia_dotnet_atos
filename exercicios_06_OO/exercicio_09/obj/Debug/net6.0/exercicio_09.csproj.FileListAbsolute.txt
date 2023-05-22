@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_06_OO\exercicio_09\bin\Debug\net6.0\exercicio_09.exe
+C:\Workspace\academia_dotnet_atos\exercicios_06_OO\exercicio_09\bin\Debug\net6.0\exercicio_09.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_06_OO\exercicio_09\bin\Debug\net6.0\exercicio_09.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_06_OO\exercicio_09\bin\Debug\net6.0\exercicio_09.dll
+C:\Workspace\academia_dotnet_atos\exercicios_06_OO\exercicio_09\bin\Debug\net6.0\exercicio_09.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_06_OO\exercicio_09\obj\Debug\net6.0\exercicio_09.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_06_OO\exercicio_09\obj\Debug\net6.0\exercicio_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_06_OO\exercicio_09\obj\Debug\net6.0\exercicio_09.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_06_OO\exercicio_09\obj\Debug\net6.0\exercicio_09.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_06_OO\exercicio_09\obj\Debug\net6.0\exercicio_09.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_06_OO\exercicio_09\obj\Debug\net6.0\exercicio_09.dll
+C:\Workspace\academia_dotnet_atos\exercicios_06_OO\exercicio_09\obj\Debug\net6.0\refint\exercicio_09.dll
+C:\Workspace\academia_dotnet_atos\exercicios_06_OO\exercicio_09\obj\Debug\net6.0\exercicio_09.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_06_OO\exercicio_09\obj\Debug\net6.0\exercicio_09.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_06_OO\exercicio_09\obj\Debug\net6.0\ref\exercicio_09.dll
