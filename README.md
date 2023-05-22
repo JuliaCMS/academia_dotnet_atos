@@ -90,6 +90,11 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Aula sobre listas
 - Novos exercícios foram adicionados à lista de Orientação a Objetos
 
+## Aula 23 (10/maio)
+- Instalação do SQL Server 
+- Introdução a Banco de Dados
+- Modelo de negócios
+
 ## LINKS ÚTEIS
 
 - [String.Contains Método](https://learn.microsoft.com/pt-br/dotnet/api/system.string.contains?view=net-7.0)
