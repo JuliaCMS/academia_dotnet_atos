@@ -84,6 +84,12 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 ## Aula 21 (08/maio)
 - Orientação a Objetos: Encapsulamento
 
+## Aula 22 (09/maio)
+- Tempo para resolução da lista de exercícios de Orientação a Objetos
+- Breve explicação sobre relacionamento entre classes
+- Aula sobre listas
+- Novos exercícios foram adicionados à lista de Orientação a Objetos
+
 ## LINKS ÚTEIS
 
 - [String.Contains Método](https://learn.microsoft.com/pt-br/dotnet/api/system.string.contains?view=net-7.0)
@@ -103,3 +109,4 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - [HTML DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
 - [W3Schools](https://www.w3schools.com/)
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [List Classe](https://learn.microsoft.com/pt-br/dotnet/api/system.collections.generic.list-1?view=net-7.0)
