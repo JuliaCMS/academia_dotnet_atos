@@ -81,6 +81,8 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Teoria da Programação Orientada a Objetos
 - Exercícios de OO: Estacionamento, Unidade de Saúde
 
+## Aula 21 (08/maio)
+- Orientação a Objetos: Encapsulamento
 
 ## LINKS ÚTEIS
 
