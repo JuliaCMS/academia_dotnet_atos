@@ -95,6 +95,11 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Introdução a Banco de Dados
 - Modelo de negócios
 
+## Aula 24 (11/maio)
+- Continuação sobre banco de dados
+- Comandos CRUD
+- Exercícios de criação de BD e tabelas (Biblioteca, Catálogo de dinossauros)
+
 ## LINKS ÚTEIS
 
 - [String.Contains Método](https://learn.microsoft.com/pt-br/dotnet/api/system.string.contains?view=net-7.0)
