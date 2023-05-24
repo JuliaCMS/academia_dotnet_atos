@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\Aula26\IAula26\bin\Debug\net6.0\IAula26.exe
+C:\Workspace\academia_dotnet_atos\Aula26\IAula26\bin\Debug\net6.0\IAula26.deps.json
+C:\Workspace\academia_dotnet_atos\Aula26\IAula26\bin\Debug\net6.0\IAula26.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\Aula26\IAula26\bin\Debug\net6.0\IAula26.dll
+C:\Workspace\academia_dotnet_atos\Aula26\IAula26\bin\Debug\net6.0\IAula26.pdb
+C:\Workspace\academia_dotnet_atos\Aula26\IAula26\obj\Debug\net6.0\IAula26.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\Aula26\IAula26\obj\Debug\net6.0\IAula26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\Aula26\IAula26\obj\Debug\net6.0\IAula26.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\Aula26\IAula26\obj\Debug\net6.0\IAula26.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\Aula26\IAula26\obj\Debug\net6.0\IAula26.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\Aula26\IAula26\obj\Debug\net6.0\IAula26.dll
+C:\Workspace\academia_dotnet_atos\Aula26\IAula26\obj\Debug\net6.0\refint\IAula26.dll
+C:\Workspace\academia_dotnet_atos\Aula26\IAula26\obj\Debug\net6.0\IAula26.pdb
+C:\Workspace\academia_dotnet_atos\Aula26\IAula26\obj\Debug\net6.0\IAula26.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\Aula26\IAula26\obj\Debug\net6.0\ref\IAula26.dll

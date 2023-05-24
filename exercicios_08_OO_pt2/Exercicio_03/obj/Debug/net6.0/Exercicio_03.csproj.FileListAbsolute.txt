@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\exercicios_08_OO_pt2\Exercicio_03\bin\Debug\net6.0\Exercicio_03.exe
+C:\Workspace\academia_dotnet_atos\exercicios_08_OO_pt2\Exercicio_03\bin\Debug\net6.0\Exercicio_03.deps.json
+C:\Workspace\academia_dotnet_atos\exercicios_08_OO_pt2\Exercicio_03\bin\Debug\net6.0\Exercicio_03.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\exercicios_08_OO_pt2\Exercicio_03\bin\Debug\net6.0\Exercicio_03.dll
+C:\Workspace\academia_dotnet_atos\exercicios_08_OO_pt2\Exercicio_03\bin\Debug\net6.0\Exercicio_03.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_08_OO_pt2\Exercicio_03\obj\Debug\net6.0\Exercicio_03.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\exercicios_08_OO_pt2\Exercicio_03\obj\Debug\net6.0\Exercicio_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\exercicios_08_OO_pt2\Exercicio_03\obj\Debug\net6.0\Exercicio_03.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_08_OO_pt2\Exercicio_03\obj\Debug\net6.0\Exercicio_03.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\exercicios_08_OO_pt2\Exercicio_03\obj\Debug\net6.0\Exercicio_03.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\exercicios_08_OO_pt2\Exercicio_03\obj\Debug\net6.0\Exercicio_03.dll
+C:\Workspace\academia_dotnet_atos\exercicios_08_OO_pt2\Exercicio_03\obj\Debug\net6.0\refint\Exercicio_03.dll
+C:\Workspace\academia_dotnet_atos\exercicios_08_OO_pt2\Exercicio_03\obj\Debug\net6.0\Exercicio_03.pdb
+C:\Workspace\academia_dotnet_atos\exercicios_08_OO_pt2\Exercicio_03\obj\Debug\net6.0\Exercicio_03.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\exercicios_08_OO_pt2\Exercicio_03\obj\Debug\net6.0\ref\Exercicio_03.dll
