@@ -104,8 +104,14 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Aula sobre manipulação de arquivos
 - Exemplo prático utilizando coleção e arquivo CSV
 
+### Aula 26 (15/maio)
+- Herança (POO)
+- Classes e métodos abstratos
+- Interfaces
+
 ## LINKS ÚTEIS
 
+- [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
 - [String.Contains Método](https://learn.microsoft.com/pt-br/dotnet/api/system.string.contains?view=net-7.0)
 - [DateTime](https://learn.microsoft.com/pt-br/dotnet/api/system.datetime?view=net-7.0)
 - [String.Split Método](https://learn.microsoft.com/pt-br/dotnet/api/system.string.split?view=net-7.0)
