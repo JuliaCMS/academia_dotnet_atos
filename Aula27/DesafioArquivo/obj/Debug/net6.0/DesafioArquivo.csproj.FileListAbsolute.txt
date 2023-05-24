@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\Aula27\DesafioArquivo\bin\Debug\net6.0\DesafioArquivo.exe
+C:\Workspace\academia_dotnet_atos\Aula27\DesafioArquivo\bin\Debug\net6.0\DesafioArquivo.deps.json
+C:\Workspace\academia_dotnet_atos\Aula27\DesafioArquivo\bin\Debug\net6.0\DesafioArquivo.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\Aula27\DesafioArquivo\bin\Debug\net6.0\DesafioArquivo.dll
+C:\Workspace\academia_dotnet_atos\Aula27\DesafioArquivo\bin\Debug\net6.0\DesafioArquivo.pdb
+C:\Workspace\academia_dotnet_atos\Aula27\DesafioArquivo\obj\Debug\net6.0\DesafioArquivo.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\Aula27\DesafioArquivo\obj\Debug\net6.0\DesafioArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\Aula27\DesafioArquivo\obj\Debug\net6.0\DesafioArquivo.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\Aula27\DesafioArquivo\obj\Debug\net6.0\DesafioArquivo.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\Aula27\DesafioArquivo\obj\Debug\net6.0\DesafioArquivo.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\Aula27\DesafioArquivo\obj\Debug\net6.0\DesafioArquivo.dll
+C:\Workspace\academia_dotnet_atos\Aula27\DesafioArquivo\obj\Debug\net6.0\refint\DesafioArquivo.dll
+C:\Workspace\academia_dotnet_atos\Aula27\DesafioArquivo\obj\Debug\net6.0\DesafioArquivo.pdb
+C:\Workspace\academia_dotnet_atos\Aula27\DesafioArquivo\obj\Debug\net6.0\DesafioArquivo.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\Aula27\DesafioArquivo\obj\Debug\net6.0\ref\DesafioArquivo.dll
