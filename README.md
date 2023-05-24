@@ -109,6 +109,10 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Classes e métodos abstratos
 - Interfaces
 
+### Aula 27 (16/maio)
+- Acompanhamento na resolução do exercício lista arquivo
+- Lista de exercícios (dicionário)
+
 ## LINKS ÚTEIS
 
 - [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
