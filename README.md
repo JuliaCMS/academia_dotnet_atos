@@ -81,24 +81,28 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Teoria da Programação Orientada a Objetos
 - Exercícios de OO: Estacionamento, Unidade de Saúde
 
-## Aula 21 (08/maio)
+### Aula 21 (08/maio)
 - Orientação a Objetos: Encapsulamento
 
-## Aula 22 (09/maio)
+### Aula 22 (09/maio)
 - Tempo para resolução da lista de exercícios de Orientação a Objetos
 - Breve explicação sobre relacionamento entre classes
 - Aula sobre listas
 - Novos exercícios foram adicionados à lista de Orientação a Objetos
 
-## Aula 23 (10/maio)
+### Aula 23 (10/maio)
 - Instalação do SQL Server 
 - Introdução a Banco de Dados
 - Modelo de negócios
 
-## Aula 24 (11/maio)
+### Aula 24 (11/maio)
 - Continuação sobre banco de dados
 - Comandos CRUD
 - Exercícios de criação de BD e tabelas (Biblioteca, Catálogo de dinossauros)
+
+### Aula 25 (12/maio)
+- Aula sobre manipulação de arquivos
+- Exemplo prático utilizando coleção e arquivo CSV
 
 ## LINKS ÚTEIS
 
