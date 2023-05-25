@@ -113,6 +113,11 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Acompanhamento na resolução do exercício lista arquivo
 - Lista de exercícios (dicionário)
 
+### Aula 28 (18/maio)
+- Atos Day
+- Comandos DML (SQL)
+- Exercício de inserção e relacionamento de dados (Biblioteca) 
+
 ## LINKS ÚTEIS
 
 - [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
