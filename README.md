@@ -118,6 +118,10 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Comandos DML (SQL)
 - Exercício de inserção e relacionamento de dados (Biblioteca) 
 
+### Aula 29 (19/maio) 
+- Revisão sobre listas (exercicio glicemia)
+- Aula sobre Windows Forms
+
 ## LINKS ÚTEIS
 
 - [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
