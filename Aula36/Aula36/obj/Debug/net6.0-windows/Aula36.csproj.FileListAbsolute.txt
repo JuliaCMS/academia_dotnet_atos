@@ -1,0 +1,17 @@
+C:\Workspace\academia_dotnet_atos\Aula36\Aula36\bin\Debug\net6.0-windows\Aula36.exe
+C:\Workspace\academia_dotnet_atos\Aula36\Aula36\bin\Debug\net6.0-windows\Aula36.deps.json
+C:\Workspace\academia_dotnet_atos\Aula36\Aula36\bin\Debug\net6.0-windows\Aula36.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\Aula36\Aula36\bin\Debug\net6.0-windows\Aula36.dll
+C:\Workspace\academia_dotnet_atos\Aula36\Aula36\bin\Debug\net6.0-windows\Aula36.pdb
+C:\Workspace\academia_dotnet_atos\Aula36\Aula36\obj\Debug\net6.0-windows\Aula36.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\Aula36\Aula36\obj\Debug\net6.0-windows\Aula36.Form1.resources
+C:\Workspace\academia_dotnet_atos\Aula36\Aula36\obj\Debug\net6.0-windows\Aula36.csproj.GenerateResource.cache
+C:\Workspace\academia_dotnet_atos\Aula36\Aula36\obj\Debug\net6.0-windows\Aula36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\Aula36\Aula36\obj\Debug\net6.0-windows\Aula36.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\Aula36\Aula36\obj\Debug\net6.0-windows\Aula36.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\Aula36\Aula36\obj\Debug\net6.0-windows\Aula36.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\Aula36\Aula36\obj\Debug\net6.0-windows\Aula36.dll
+C:\Workspace\academia_dotnet_atos\Aula36\Aula36\obj\Debug\net6.0-windows\refint\Aula36.dll
+C:\Workspace\academia_dotnet_atos\Aula36\Aula36\obj\Debug\net6.0-windows\Aula36.pdb
+C:\Workspace\academia_dotnet_atos\Aula36\Aula36\obj\Debug\net6.0-windows\Aula36.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\Aula36\Aula36\obj\Debug\net6.0-windows\ref\Aula36.dll
