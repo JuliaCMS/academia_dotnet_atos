@@ -122,6 +122,10 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Revisão sobre listas (exercicio glicemia)
 - Aula sobre Windows Forms
 
+### Aula 30 (22/maio)
+- Foi aplicado o quarto desafio da academia  
+>O desafio foi sobre arquivo e Windows Forms. Foram propostas duas alternativas de desafios, sendo a primeira sobre arquivo de alunos e a segunda sobre um sistema de estacionamento.
+
 ### Aula 35 (29/maio)
 - Serialização e Desserialização em fluxo de byte, XML, SOAP e JSON
 
