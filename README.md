@@ -122,6 +122,9 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Revisão sobre listas (exercicio glicemia)
 - Aula sobre Windows Forms
 
+### Aula 35 (29/maio)
+- Serialização e Desserialização em fluxo de byte, XML, SOAP e JSON
+
 ## LINKS ÚTEIS
 
 - [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
