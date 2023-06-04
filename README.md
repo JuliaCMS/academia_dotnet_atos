@@ -126,6 +126,10 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Foi aplicado o quarto desafio da academia  
 >O desafio foi sobre arquivo e Windows Forms. Foram propostas duas alternativas de desafios, sendo a primeira sobre arquivo de alunos e a segunda sobre um sistema de estacionamento.
 
+### Aula 31 (23/maio)
+- Resolução dos exercícios da Biblioteca
+- Aula sobre Joins em SQL
+
 ### Aula 35 (29/maio)
 - Serialização e Desserialização em fluxo de byte, XML, SOAP e JSON
 
