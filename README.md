@@ -130,13 +130,23 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Resolução dos exercícios da Biblioteca
 - Aula sobre Joins em SQL
 
+### Aula 32 (24/maio)
+- Revisão sobre Windows Forms
+- Tempo reservado para resolução do 4º desafio
+
+### Aula 33 (25/maio)
+- Aula reservada para resolução do 4º desafio
+
+### Aula 34 (26/maio)
+- Aula reservada para resolução do 4º desafio
+
 ### Aula 35 (29/maio)
 - Serialização e Desserialização em fluxo de byte, XML, SOAP e JSON
 
 ### Aula 36 (30/maio)
 - Criptografia
     - Chave Simétrica
-    - CHave Assimétrica
+    - Chave Assimétrica
 
 ## LINKS ÚTEIS
 
