@@ -148,6 +148,10 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
     - Chave Simétrica
     - Chave Assimétrica
 
+### Aula 37 (31/maio)
+- ADO.NET
+    - Windows Forms e conexão com o Banco de Dados
+
 ## LINKS ÚTEIS
 
 - [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
@@ -169,3 +173,4 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - [W3Schools](https://www.w3schools.com/)
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [List Classe](https://learn.microsoft.com/pt-br/dotnet/api/system.collections.generic.list-1?view=net-7.0)
+- [SQL Server connection strings](https://www.connectionstrings.com/sql-server/)
