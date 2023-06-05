@@ -137,3 +137,47 @@ END
 
 
 DROP TRIGGER SEGUNDATRIGGER
+delete from java where professor = 'Fabricio'
+insert into java values ('Lucas')
+insert into java values ('Fabricio')
+
+DROP TRIGGER TERCEIRATRIGGER
+
+
+
+
+
+
+
+
+create trigger quartatrigger
+on java
+after update
+as
+begin
+	declare @anterior varchar(20)
+	declare @novo varchar(20)
+	select @anterior = (select deleted.professor from deleted)
+	select @novo = (select inserted.professor from inserted)
+
+	IF(ROWCOUNT_BIG() = 0)
+		return;
+
+	IF @anterior= @novo
+		begin
+			raiserror('SEM ALTERAÇÕES', 14, 1);
+			rollback transaction;
+			insert into log values ('Atualização', 'Tentativa de update mal sucedida!', GETDATE());
+		end
+	ELSE
+		begin
+			insert into log values ('upd', 'Alteração do prof, ' + @anterior + ' para ' + @novo, GETDATE());
+		end
+end
+
+select * from java
+select * from log
+
+update java set professor = 'Fabrício' 
+where professor = 'Lucas'
+
