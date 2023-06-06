@@ -1,3 +1,5 @@
+-- 31/05
+
 create database adonet
 
 create table pessoas
@@ -15,3 +17,6 @@ exec sp_addrolemember 'DB_DATAWRITER', 'usuario';
 insert into pessoas values ('Fabricio', 'Professor')
 insert into pessoas values ('Zé', 'Programador')
 select * from pessoas
+
+
+-- 01/06

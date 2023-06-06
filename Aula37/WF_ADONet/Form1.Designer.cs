@@ -37,12 +37,16 @@
             btnCadastrar = new Button();
             label1 = new Label();
             label2 = new Label();
+            btnExcluir = new Button();
+            btnAlterar = new Button();
+            textBoxID = new TextBox();
+            labelID = new Label();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
             // btnTodos
             // 
-            btnTodos.Location = new Point(29, 117);
+            btnTodos.Location = new Point(293, 254);
             btnTodos.Name = "btnTodos";
             btnTodos.Size = new Size(125, 29);
             btnTodos.TabIndex = 0;
@@ -53,9 +57,9 @@
             // 
             // txtNome
             // 
-            txtNome.Location = new Point(29, 37);
+            txtNome.Location = new Point(621, 45);
             txtNome.Name = "txtNome";
-            txtNome.Size = new Size(125, 27);
+            txtNome.Size = new Size(136, 27);
             txtNome.TabIndex = 1;
             // 
             // dataGridView1
@@ -63,17 +67,17 @@
             dataGridView1.AllowUserToAddRows = false;
             dataGridView1.AllowUserToDeleteRows = false;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(180, 12);
+            dataGridView1.Location = new Point(191, 22);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.ReadOnly = true;
             dataGridView1.RowHeadersWidth = 51;
             dataGridView1.RowTemplate.Height = 29;
-            dataGridView1.Size = new Size(300, 188);
+            dataGridView1.Size = new Size(416, 217);
             dataGridView1.TabIndex = 2;
             // 
             // btnFiltrar
             // 
-            btnFiltrar.Location = new Point(29, 70);
+            btnFiltrar.Location = new Point(663, 78);
             btnFiltrar.Name = "btnFiltrar";
             btnFiltrar.Size = new Size(94, 29);
             btnFiltrar.TabIndex = 3;
@@ -84,21 +88,21 @@
             // 
             // textBoxNome
             // 
-            textBoxNome.Location = new Point(29, 262);
+            textBoxNome.Location = new Point(22, 45);
             textBoxNome.Name = "textBoxNome";
-            textBoxNome.Size = new Size(125, 27);
+            textBoxNome.Size = new Size(148, 27);
             textBoxNome.TabIndex = 4;
             // 
             // textBoxProfissao
             // 
-            textBoxProfissao.Location = new Point(29, 315);
+            textBoxProfissao.Location = new Point(22, 98);
             textBoxProfissao.Name = "textBoxProfissao";
-            textBoxProfissao.Size = new Size(125, 27);
+            textBoxProfissao.Size = new Size(148, 27);
             textBoxProfissao.TabIndex = 5;
             // 
             // btnCadastrar
             // 
-            btnCadastrar.Location = new Point(29, 348);
+            btnCadastrar.Location = new Point(22, 140);
             btnCadastrar.Name = "btnCadastrar";
             btnCadastrar.Size = new Size(94, 29);
             btnCadastrar.TabIndex = 6;
@@ -110,26 +114,66 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(29, 239);
+            label1.Location = new Point(22, 22);
             label1.Name = "label1";
-            label1.Size = new Size(52, 20);
+            label1.Size = new Size(50, 20);
             label1.TabIndex = 7;
-            label1.Text = "NOme";
+            label1.Text = "Nome";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(29, 292);
+            label2.Location = new Point(22, 75);
             label2.Name = "label2";
             label2.Size = new Size(69, 20);
             label2.TabIndex = 8;
             label2.Text = "Profissao";
             // 
+            // btnExcluir
+            // 
+            btnExcluir.Location = new Point(78, 223);
+            btnExcluir.Name = "btnExcluir";
+            btnExcluir.Size = new Size(94, 29);
+            btnExcluir.TabIndex = 9;
+            btnExcluir.Text = "Excluir";
+            btnExcluir.UseVisualStyleBackColor = true;
+            btnExcluir.Click += btnExcluir_Click;
+            // 
+            // btnAlterar
+            // 
+            btnAlterar.Location = new Point(78, 258);
+            btnAlterar.Name = "btnAlterar";
+            btnAlterar.Size = new Size(94, 29);
+            btnAlterar.TabIndex = 10;
+            btnAlterar.Text = "Alterar";
+            btnAlterar.UseVisualStyleBackColor = true;
+            btnAlterar.Click += btnAlterar_Click;
+            // 
+            // textBoxID
+            // 
+            textBoxID.Location = new Point(2, 226);
+            textBoxID.Name = "textBoxID";
+            textBoxID.Size = new Size(70, 27);
+            textBoxID.TabIndex = 11;
+            // 
+            // labelID
+            // 
+            labelID.AutoSize = true;
+            labelID.Location = new Point(2, 254);
+            labelID.Name = "labelID";
+            labelID.Size = new Size(24, 20);
+            labelID.TabIndex = 12;
+            labelID.Text = "ID";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(769, 316);
+            Controls.Add(labelID);
+            Controls.Add(textBoxID);
+            Controls.Add(btnAlterar);
+            Controls.Add(btnExcluir);
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(btnCadastrar);
@@ -157,5 +201,9 @@
         private Button btnCadastrar;
         private Label label1;
         private Label label2;
+        private Button btnExcluir;
+        private Button btnAlterar;
+        private TextBox textBoxID;
+        private Label labelID;
     }
 }

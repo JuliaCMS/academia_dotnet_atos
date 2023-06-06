@@ -57,5 +57,71 @@ namespace WF_ADONet
                 bd.fecharConexao();
             }
         }
+
+        public bool excluir(int id)
+        {
+            Banco bd = new Banco();
+
+            SqlConnection cn = bd.abrirConexao(); // biblioteca que faz conexão entre o c# e sql server
+            SqlTransaction trans = cn.BeginTransaction();
+            SqlCommand command = new SqlCommand();
+
+            command.Connection = cn;
+            command.Transaction = trans;
+            command.CommandType = System.Data.CommandType.Text;
+            command.CommandText = "delete from pessoas where id = @id";
+            command.Parameters.AddWithValue("@Id", id.ToString());
+
+            try
+            {
+                command.ExecuteNonQuery();
+                trans.Commit();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                trans.Rollback();
+                return false;
+            }
+            finally
+            {
+                bd.fecharConexao();
+            }
+        }
+
+        public bool atualizar(string nome, string profissao, int id)
+        {
+            Banco bd = new Banco();
+
+            SqlConnection cn = bd.abrirConexao();
+            SqlTransaction tran = cn.BeginTransaction();
+
+            SqlCommand cmd = new SqlCommand();
+            cmd.Connection = cn;
+            cmd.Transaction = tran;
+            cmd.CommandType = System.Data.CommandType.Text;
+            cmd.CommandText = "update pessoas set nome = @nome, " +
+                "  profissao = @profissao where id = @id";
+            cmd.Parameters.AddWithValue("@Nome", nome);
+            cmd.Parameters.AddWithValue("@Profissao", profissao);
+            cmd.Parameters.AddWithValue("@Id", id.ToString());
+
+            try
+            {
+                cmd.ExecuteNonQuery();
+                tran.Commit();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                tran.Rollback();
+                return false;
+
+            }
+            finally
+            {
+                bd.fecharConexao();
+            }
+        }
     }
 }
