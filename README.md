@@ -152,6 +152,20 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - ADO.NET
     - Windows Forms e conexão com o Banco de Dados
 
+### Aula 38 (01/junho)
+- Continuação da aula sobre ADO.NET
+    - Data Reader
+
+### Aula 39 (02/junho)
+- Instalação dos componentes para desenvolvimento Xamarim
+- Primeiro Projeto Xamarin
+
+### Aula 40 (05/junho)
+- Aula sobre ASP.NET MVC
+
+### Aula 41 (06/junho)
+- Aula sobre Entity Framework
+
 ## LINKS ÚTEIS
 
 - [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
