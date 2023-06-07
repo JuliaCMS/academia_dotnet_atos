@@ -163,6 +163,9 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 ### Aula 40 (05/junho)
 - Aula sobre ASP.NET MVC
 
+### Aula 41 (06/junho)
+- Aula sobre Entity Framework
+
 ## LINKS ÚTEIS
 
 - [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
