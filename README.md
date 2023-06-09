@@ -166,6 +166,9 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 ### Aula 41 (06/junho)
 - Aula sobre Entity Framework
 
+### Aula 42 (07/junho)
+- Continuação sobre Entity Framework
+
 ## LINKS ÚTEIS
 
 - [C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
@@ -188,3 +191,4 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - [MDN Web Docs](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [List Classe](https://learn.microsoft.com/pt-br/dotnet/api/system.collections.generic.list-1?view=net-7.0)
 - [SQL Server connection strings](https://www.connectionstrings.com/sql-server/)
+- [Xamarin.Forms StackLayout](https://learn.microsoft.com/pt-br/xamarin/xamarin-forms/user-interface/layouts/stacklayout)
