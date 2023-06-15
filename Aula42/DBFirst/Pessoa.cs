@@ -7,11 +7,7 @@ public partial class Pessoa
 {
     public int Id { get; set; }
 
-    public string Email { get; set; } = null!;
+    public string Nome { get; set; } = null!;
 
-    public int? FkPessoa { get; set; }
-
-    public virtual Pessoa? FkPessoaNavigation { get; set; }
-
-    public virtual ICollection<Pessoa> InverseFkPessoaNavigation { get; set; } = new List<Pessoa>();
+    public virtual ICollection<Email> Emails { get; set; } = new List<Email>();
 }

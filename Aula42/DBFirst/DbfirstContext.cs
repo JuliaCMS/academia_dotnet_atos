@@ -15,6 +15,8 @@ public partial class DbfirstContext : DbContext
     {
     }
 
+    public virtual DbSet<Email> Emails { get; set; }
+
     public virtual DbSet<Pessoa> Pessoas { get; set; }
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
@@ -23,22 +25,35 @@ public partial class DbfirstContext : DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<Pessoa>(entity =>
+        modelBuilder.Entity<Email>(entity =>
         {
-            entity.HasKey(e => e.Id).HasName("PK__pessoas__3213E83F4AE2B121");
+            entity.HasKey(e => e.Id).HasName("PK__emails__3213E83F01A2A689");
 
-            entity.ToTable("pessoas");
+            entity.ToTable("emails");
 
             entity.Property(e => e.Id).HasColumnName("id");
-            entity.Property(e => e.Email)
+            entity.Property(e => e.Email1)
                 .HasMaxLength(80)
                 .IsUnicode(false)
                 .HasColumnName("email");
             entity.Property(e => e.FkPessoa).HasColumnName("fk_pessoa");
 
-            entity.HasOne(d => d.FkPessoaNavigation).WithMany(p => p.InverseFkPessoaNavigation)
+            entity.HasOne(d => d.FkPessoaNavigation).WithMany(p => p.Emails)
                 .HasForeignKey(d => d.FkPessoa)
-                .HasConstraintName("FK__pessoas__fk_pess__49C3F6B7");
+                .HasConstraintName("FK__emails__fk_pesso__4BAC3F29");
+        });
+
+        modelBuilder.Entity<Pessoa>(entity =>
+        {
+            entity.HasKey(e => e.Id).HasName("PK__pessoas__3213E83F17E3390F");
+
+            entity.ToTable("pessoas");
+
+            entity.Property(e => e.Id).HasColumnName("id");
+            entity.Property(e => e.Nome)
+                .HasMaxLength(100)
+                .IsUnicode(false)
+                .HasColumnName("nome");
         });
 
         OnModelCreatingPartial(modelBuilder);

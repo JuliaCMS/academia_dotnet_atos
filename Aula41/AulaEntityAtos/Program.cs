@@ -68,7 +68,6 @@ namespace AulaEntityAtos
                         contexto.SaveChanges();
 
                         Console.WriteLine("Nome alterado com sucesso!");
-
                     }
                     catch (Exception ex)
                     {
@@ -84,6 +83,7 @@ namespace AulaEntityAtos
                         Pessoa p = contexto.Pessoas.Find(id);
 
                         Console.WriteLine("Informe o novo email: ");
+                        // modo 1
                         Email e = new Email();
                         e.email = Console.ReadLine();
 
@@ -91,6 +91,19 @@ namespace AulaEntityAtos
 
                         contexto.Pessoas.Update(p);
                         contexto.SaveChanges();
+
+                        Console.WriteLine("E-mail inserido com sucesso!");
+
+                        // modo 2
+                        //string emailTemp = Console.ReadLine();
+
+                        //p.emails.Add(new Email()
+                        //{
+                        //    email = emailTemp
+                        //}
+                        //);
+                        //contexto.Pessoas.Update(p);
+                        //contexto.SaveChanges();
                     }
                     catch (Exception ex)
                     {
@@ -117,14 +130,18 @@ namespace AulaEntityAtos
                             contexto.SaveChanges();
                             Console.WriteLine("Excluído com sucesso!");
                         }
+                        else
+                        {
+                            Console.WriteLine("Exclusão cancelada.");
+                        }
                     }
                     catch (Exception ex)
                     {
                         Console.WriteLine(ex.Message);
                     }
-                        break;
+                    break;
                 case 5:
-                    List<Pessoa> pessoas = (from Pessoa p in contexto.Pessoas select p).Include(pes => pes.emails).ToList<Pessoa>();
+                    List<Pessoa> pessoas = (from Pessoa p in contexto.Pessoas select p).Include(pes => pes.emails).ToList<Pessoa>(); //Linq
                     foreach(Pessoa item in pessoas)
                     {
                         Console.WriteLine(item.id + " - " + item.nome);
@@ -140,9 +157,8 @@ namespace AulaEntityAtos
                     Console.WriteLine("Informe o ID da Pessoa:");
                     int idP = int.Parse(Console.ReadLine());
 
-                    //Pessoa pessoa = contexto.Pessoas.Include(p=> p.emails)
-                    //    .Where(p => p.id == id).FirstOrDefault();
-
+                    //Pessoa pessoa = contexto.Pessoas.Include(p=> p.emails).Where(p => p.id == id).FirstOrDefault();
+                    
                     Pessoa pessoa = contexto.Pessoas.Include(p => p.emails).FirstOrDefault(x => x.id == idP);
 
                     Console.WriteLine(pessoa.id + " - " + pessoa.nome);
