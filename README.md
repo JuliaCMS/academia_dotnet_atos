@@ -165,9 +165,15 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 
 ### Aula 41 (06/junho)
 - Aula sobre Entity Framework
+- Code First
 
 ### Aula 42 (07/junho)
 - Continuação sobre Entity Framework
+- Database First
+- Exercício de codefirst e dbfirst
+
+### Aula 43 (08/junho)
+- Entrega do projeto de Xamarin
 
 ## LINKS ÚTEIS
 
@@ -192,3 +198,4 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - [List Classe](https://learn.microsoft.com/pt-br/dotnet/api/system.collections.generic.list-1?view=net-7.0)
 - [SQL Server connection strings](https://www.connectionstrings.com/sql-server/)
 - [Xamarin.Forms StackLayout](https://learn.microsoft.com/pt-br/xamarin/xamarin-forms/user-interface/layouts/stacklayout)
+- [C# em 5 minutos - Lambda Expressions](https://www.youtube.com/watch?v=Ftbrn82BPcc)
