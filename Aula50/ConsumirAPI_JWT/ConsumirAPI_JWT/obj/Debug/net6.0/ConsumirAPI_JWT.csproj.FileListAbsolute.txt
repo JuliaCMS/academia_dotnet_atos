@@ -1,0 +1,15 @@
+C:\Workspace\academia_dotnet_atos\Aula50\ConsumirAPI_JWT\ConsumirAPI_JWT\bin\Debug\net6.0\ConsumirAPI_JWT.exe
+C:\Workspace\academia_dotnet_atos\Aula50\ConsumirAPI_JWT\ConsumirAPI_JWT\bin\Debug\net6.0\ConsumirAPI_JWT.deps.json
+C:\Workspace\academia_dotnet_atos\Aula50\ConsumirAPI_JWT\ConsumirAPI_JWT\bin\Debug\net6.0\ConsumirAPI_JWT.runtimeconfig.json
+C:\Workspace\academia_dotnet_atos\Aula50\ConsumirAPI_JWT\ConsumirAPI_JWT\bin\Debug\net6.0\ConsumirAPI_JWT.dll
+C:\Workspace\academia_dotnet_atos\Aula50\ConsumirAPI_JWT\ConsumirAPI_JWT\bin\Debug\net6.0\ConsumirAPI_JWT.pdb
+C:\Workspace\academia_dotnet_atos\Aula50\ConsumirAPI_JWT\ConsumirAPI_JWT\obj\Debug\net6.0\ConsumirAPI_JWT.csproj.AssemblyReference.cache
+C:\Workspace\academia_dotnet_atos\Aula50\ConsumirAPI_JWT\ConsumirAPI_JWT\obj\Debug\net6.0\ConsumirAPI_JWT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\academia_dotnet_atos\Aula50\ConsumirAPI_JWT\ConsumirAPI_JWT\obj\Debug\net6.0\ConsumirAPI_JWT.AssemblyInfoInputs.cache
+C:\Workspace\academia_dotnet_atos\Aula50\ConsumirAPI_JWT\ConsumirAPI_JWT\obj\Debug\net6.0\ConsumirAPI_JWT.AssemblyInfo.cs
+C:\Workspace\academia_dotnet_atos\Aula50\ConsumirAPI_JWT\ConsumirAPI_JWT\obj\Debug\net6.0\ConsumirAPI_JWT.csproj.CoreCompileInputs.cache
+C:\Workspace\academia_dotnet_atos\Aula50\ConsumirAPI_JWT\ConsumirAPI_JWT\obj\Debug\net6.0\ConsumirAPI_JWT.dll
+C:\Workspace\academia_dotnet_atos\Aula50\ConsumirAPI_JWT\ConsumirAPI_JWT\obj\Debug\net6.0\refint\ConsumirAPI_JWT.dll
+C:\Workspace\academia_dotnet_atos\Aula50\ConsumirAPI_JWT\ConsumirAPI_JWT\obj\Debug\net6.0\ConsumirAPI_JWT.pdb
+C:\Workspace\academia_dotnet_atos\Aula50\ConsumirAPI_JWT\ConsumirAPI_JWT\obj\Debug\net6.0\ConsumirAPI_JWT.genruntimeconfig.cache
+C:\Workspace\academia_dotnet_atos\Aula50\ConsumirAPI_JWT\ConsumirAPI_JWT\obj\Debug\net6.0\ref\ConsumirAPI_JWT.dll

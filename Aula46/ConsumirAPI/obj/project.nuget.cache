@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SlFuRib6yN/RdH5IkIaCyzTet1mtSEfvsYHpWCt1osJ5ySW2udlLAZ5SQmz5iozwY/SnAppT0nqvpIUPVoRQcg==",
+  "success": true,
+  "projectFilePath": "C:\\Workspace\\academia_dotnet_atos\\Aula1406\\ConsumirAPI\\ConsumirAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\julia\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
