@@ -172,8 +172,50 @@ Repositório criado para armazenar anotações e exercícios desenvolvidos duran
 - Database First
 - Exercício de codefirst e dbfirst
 
-### Aula 43 (08/junho)
+### Aula 43 (09/junho)
 - Entrega do projeto de Xamarin
+
+### Aula 44 (12/junho)
+- Aula sobre API
+    - API REST
+    - API RESTful
+    - Métodos HTTP e CRUD
+    - Swagger
+
+ ### Aula 45 (13/junho )
+ - Continuação da aula sobre API
+    - LazingLoad
+    - AsNoTracking
+
+### Aula 46 (14/junho)
+- 2º Atos Day
+- Consumir API em Console Application
+
+### Aula 47 (15/junho)
+- Explicação sobre o projeto final e cronograma das últimas atividades
+- PUT email na API
+- Continuação do consumo da API em Console Application
+
+### Aula 48 (16/junho)
+- Ideia inicial do projeto e planejamento
+
+### Aula 49 (19/junho)
+- Aula de introdução sobre Angular
+- Instalação do Angular
+- Consumo da API
+
+### Aula 50 (20/junho)
+- JWT Token
+
+### Aula 51 (21/junho)
+- Continuação sobre JWT Token
+- Padrões de Projeto (Singleton)
+
+### 22/junho - 04/julho - Desenvolvimento do Projeto Final
+
+### 05/julho - Apresentações dos Projetos Finais e Formatura.
+
+
 
 ## LINKS ÚTEIS
 
